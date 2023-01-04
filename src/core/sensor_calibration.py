@@ -1,10 +1,10 @@
 # AI Pothole Recognition System - Foundational R&D 2023
 # Module: CALIBRATION (src/core/sensor_calibration.py)
-# Component: UART baud rate synchronizer
+# Component: pinhole projection matrix
 # Milestone Date: 2023-01-04
-FOUNDATION_STAGE_13 = {
-    'stage_id': 13,
+FOUNDATION_STAGE_14 = {
+    'stage_id': 14,
     'date': '2023-01-04',
-    'component': 'UART baud rate synchronizer',
+    'component': 'pinhole projection matrix',
     'status': 'OPERATIONAL'
 }
