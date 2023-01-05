@@ -1,10 +1,10 @@
 # AI Pothole Recognition System - Foundational R&D 2023
 # Module: CALIBRATION (src/core/sensor_calibration.py)
-# Component: MobileNetV3 residual block
-# Milestone Date: 2023-01-04
-FOUNDATION_STAGE_15 = {
-    'stage_id': 15,
-    'date': '2023-01-04',
-    'component': 'MobileNetV3 residual block',
+# Component: Focal loss class weight
+# Milestone Date: 2023-01-05
+FOUNDATION_STAGE_16 = {
+    'stage_id': 16,
+    'date': '2023-01-05',
+    'component': 'Focal loss class weight',
     'status': 'OPERATIONAL'
 }
