@@ -1,10 +1,10 @@
 # AI Pothole Recognition System - Foundational R&D 2023
 # Module: CALIBRATION (src/core/sensor_calibration.py)
-# Component: crack polygon skeleton
+# Component: stale buffer eviction policy
 # Milestone Date: 2023-01-06
-FOUNDATION_STAGE_20 = {
-    'stage_id': 20,
+FOUNDATION_STAGE_21 = {
+    'stage_id': 21,
     'date': '2023-01-06',
-    'component': 'crack polygon skeleton',
+    'component': 'stale buffer eviction policy',
     'status': 'OPERATIONAL'
 }
