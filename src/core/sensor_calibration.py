@@ -1,10 +1,10 @@
 # AI Pothole Recognition System - Foundational R&D 2023
 # Module: CALIBRATION (src/core/sensor_calibration.py)
-# Component: speckle filter threshold
-# Milestone Date: 2023-01-18
-FOUNDATION_STAGE_55 = {
-    'stage_id': 55,
-    'date': '2023-01-18',
-    'component': 'speckle filter threshold',
+# Component: EKF state covariance matrix
+# Milestone Date: 2023-01-19
+FOUNDATION_STAGE_56 = {
+    'stage_id': 56,
+    'date': '2023-01-19',
+    'component': 'EKF state covariance matrix',
     'status': 'OPERATIONAL'
 }
