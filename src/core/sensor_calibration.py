@@ -1,10 +1,10 @@
 # AI Pothole Recognition System - Foundational R&D 2023
 # Module: CALIBRATION (src/core/sensor_calibration.py)
-# Component: depthwise separable layer
+# Component: speckle filter threshold
 # Milestone Date: 2023-01-20
-FOUNDATION_STAGE_59 = {
-    'stage_id': 59,
+FOUNDATION_STAGE_60 = {
+    'stage_id': 60,
     'date': '2023-01-20',
-    'component': 'depthwise separable layer',
+    'component': 'speckle filter threshold',
     'status': 'OPERATIONAL'
 }
