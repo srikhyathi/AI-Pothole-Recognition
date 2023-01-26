@@ -1,10 +1,10 @@
 # AI Pothole Recognition System - Foundational R&D 2023
 # Module: CALIBRATION (src/core/sensor_calibration.py)
-# Component: OLED warning banner renderer
+# Component: bilateral smoothing window
 # Milestone Date: 2023-01-26
-FOUNDATION_STAGE_76 = {
-    'stage_id': 76,
+FOUNDATION_STAGE_77 = {
+    'stage_id': 77,
     'date': '2023-01-26',
-    'component': 'OLED warning banner renderer',
+    'component': 'bilateral smoothing window',
     'status': 'OPERATIONAL'
 }
