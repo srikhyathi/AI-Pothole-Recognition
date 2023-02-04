@@ -1,10 +1,10 @@
 # AI Pothole Recognition System - Foundational R&D 2023
 # Module: FILTERING (src/preprocessing/edge_filters.py)
-# Component: driver reaction latency timer
-# Milestone Date: 2023-02-03
-FOUNDATION_STAGE_105 = {
-    'stage_id': 105,
-    'date': '2023-02-03',
-    'component': 'driver reaction latency timer',
+# Component: Sobel gradient kernel
+# Milestone Date: 2023-02-04
+FOUNDATION_STAGE_106 = {
+    'stage_id': 106,
+    'date': '2023-02-04',
+    'component': 'Sobel gradient kernel',
     'status': 'OPERATIONAL'
 }
