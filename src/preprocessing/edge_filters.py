@@ -1,10 +1,10 @@
 # AI Pothole Recognition System - Foundational R&D 2023
 # Module: FILTERING (src/preprocessing/edge_filters.py)
-# Component: Sobel gradient kernel
-# Milestone Date: 2023-02-04
-FOUNDATION_STAGE_106 = {
-    'stage_id': 106,
-    'date': '2023-02-04',
-    'component': 'Sobel gradient kernel',
+# Component: depthwise separable layer
+# Milestone Date: 2023-02-05
+FOUNDATION_STAGE_107 = {
+    'stage_id': 107,
+    'date': '2023-02-05',
+    'component': 'depthwise separable layer',
     'status': 'OPERATIONAL'
 }
