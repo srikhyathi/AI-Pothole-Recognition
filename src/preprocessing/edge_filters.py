@@ -1,10 +1,10 @@
 # AI Pothole Recognition System - Foundational R&D 2023
 # Module: FILTERING (src/preprocessing/edge_filters.py)
-# Component: stale buffer eviction policy
-# Milestone Date: 2023-02-06
-FOUNDATION_STAGE_112 = {
-    'stage_id': 112,
-    'date': '2023-02-06',
-    'component': 'stale buffer eviction policy',
+# Component: speckle filter threshold
+# Milestone Date: 2023-02-07
+FOUNDATION_STAGE_113 = {
+    'stage_id': 113,
+    'date': '2023-02-07',
+    'component': 'speckle filter threshold',
     'status': 'OPERATIONAL'
 }
