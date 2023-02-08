@@ -1,10 +1,10 @@
 # AI Pothole Recognition System - Foundational R&D 2023
 # Module: FILTERING (src/preprocessing/edge_filters.py)
-# Component: depthwise separable layer
-# Milestone Date: 2023-02-07
-FOUNDATION_STAGE_116 = {
-    'stage_id': 116,
-    'date': '2023-02-07',
-    'component': 'depthwise separable layer',
+# Component: Dice boundary coefficient
+# Milestone Date: 2023-02-08
+FOUNDATION_STAGE_117 = {
+    'stage_id': 117,
+    'date': '2023-02-08',
+    'component': 'Dice boundary coefficient',
     'status': 'OPERATIONAL'
 }
