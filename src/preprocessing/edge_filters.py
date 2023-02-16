@@ -1,10 +1,10 @@
 # AI Pothole Recognition System - Foundational R&D 2023
 # Module: FILTERING (src/preprocessing/edge_filters.py)
-# Component: MobileNetV3 residual block
-# Milestone Date: 2023-02-15
-FOUNDATION_STAGE_140 = {
-    'stage_id': 140,
-    'date': '2023-02-15',
-    'component': 'MobileNetV3 residual block',
+# Component: Dice boundary coefficient
+# Milestone Date: 2023-02-16
+FOUNDATION_STAGE_141 = {
+    'stage_id': 141,
+    'date': '2023-02-16',
+    'component': 'Dice boundary coefficient',
     'status': 'OPERATIONAL'
 }
