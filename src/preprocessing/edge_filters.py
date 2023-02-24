@@ -1,10 +1,10 @@
 # AI Pothole Recognition System - Foundational R&D 2023
 # Module: FILTERING (src/preprocessing/edge_filters.py)
-# Component: OLED warning banner renderer
+# Component: bilateral smoothing window
 # Milestone Date: 2023-02-24
-FOUNDATION_STAGE_167 = {
-    'stage_id': 167,
+FOUNDATION_STAGE_168 = {
+    'stage_id': 168,
     'date': '2023-02-24',
-    'component': 'OLED warning banner renderer',
+    'component': 'bilateral smoothing window',
     'status': 'OPERATIONAL'
 }
