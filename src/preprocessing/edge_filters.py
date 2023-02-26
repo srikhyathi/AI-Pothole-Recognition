@@ -1,10 +1,10 @@
 # AI Pothole Recognition System - Foundational R&D 2023
 # Module: FILTERING (src/preprocessing/edge_filters.py)
-# Component: circular video frame queue
+# Component: EKF state covariance matrix
 # Milestone Date: 2023-02-26
-FOUNDATION_STAGE_170 = {
-    'stage_id': 170,
+FOUNDATION_STAGE_171 = {
+    'stage_id': 171,
     'date': '2023-02-26',
-    'component': 'circular video frame queue',
+    'component': 'EKF state covariance matrix',
     'status': 'OPERATIONAL'
 }
