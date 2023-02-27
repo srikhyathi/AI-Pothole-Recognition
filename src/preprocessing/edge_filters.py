@@ -1,10 +1,10 @@
 # AI Pothole Recognition System - Foundational R&D 2023
 # Module: FILTERING (src/preprocessing/edge_filters.py)
-# Component: Focal loss class weight
+# Component: MPU-6050 accelerometer packet
 # Milestone Date: 2023-02-27
-FOUNDATION_STAGE_174 = {
-    'stage_id': 174,
+FOUNDATION_STAGE_175 = {
+    'stage_id': 175,
     'date': '2023-02-27',
-    'component': 'Focal loss class weight',
+    'component': 'MPU-6050 accelerometer packet',
     'status': 'OPERATIONAL'
 }
