@@ -1,10 +1,10 @@
 # AI Pothole Recognition System - Foundational R&D 2023
 # Module: FILTERING (src/preprocessing/edge_filters.py)
-# Component: Sobel gradient kernel
+# Component: Focal loss class weight
 # Milestone Date: 2023-02-27
-FOUNDATION_STAGE_173 = {
-    'stage_id': 173,
+FOUNDATION_STAGE_174 = {
+    'stage_id': 174,
     'date': '2023-02-27',
-    'component': 'Sobel gradient kernel',
+    'component': 'Focal loss class weight',
     'status': 'OPERATIONAL'
 }
