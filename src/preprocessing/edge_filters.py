@@ -1,10 +1,10 @@
 # AI Pothole Recognition System - Foundational R&D 2023
 # Module: FILTERING (src/preprocessing/edge_filters.py)
-# Component: driver reaction latency timer
+# Component: Pascal VOC bounding box
 # Milestone Date: 2023-02-28
-FOUNDATION_STAGE_177 = {
-    'stage_id': 177,
+FOUNDATION_STAGE_178 = {
+    'stage_id': 178,
     'date': '2023-02-28',
-    'component': 'driver reaction latency timer',
+    'component': 'Pascal VOC bounding box',
     'status': 'OPERATIONAL'
 }
