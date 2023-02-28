@@ -1,10 +1,10 @@
 # AI Pothole Recognition System - Foundational R&D 2023
 # Module: FILTERING (src/preprocessing/edge_filters.py)
-# Component: EKF state covariance matrix
+# Component: driver reaction latency timer
 # Milestone Date: 2023-02-28
-FOUNDATION_STAGE_176 = {
-    'stage_id': 176,
+FOUNDATION_STAGE_177 = {
+    'stage_id': 177,
     'date': '2023-02-28',
-    'component': 'EKF state covariance matrix',
+    'component': 'driver reaction latency timer',
     'status': 'OPERATIONAL'
 }
