@@ -1,10 +1,10 @@
 # AI Pothole Recognition System - Foundational R&D 2023
 # Module: ANNOTATION (src/dataset/annotation_loader.py)
-# Component: embedded GPU inference harness
+# Component: crack polygon skeleton
 # Milestone Date: 2023-03-01
-FOUNDATION_STAGE_182 = {
-    'stage_id': 182,
+FOUNDATION_STAGE_183 = {
+    'stage_id': 183,
     'date': '2023-03-01',
-    'component': 'embedded GPU inference harness',
+    'component': 'crack polygon skeleton',
     'status': 'OPERATIONAL'
 }
