@@ -1,10 +1,10 @@
 # AI Pothole Recognition System - Foundational R&D 2023
 # Module: ANNOTATION (src/dataset/annotation_loader.py)
-# Component: MobileNetV3 residual block
+# Component: SGBM disparity cost volume
 # Milestone Date: 2023-03-02
-FOUNDATION_STAGE_188 = {
-    'stage_id': 188,
+FOUNDATION_STAGE_189 = {
+    'stage_id': 189,
     'date': '2023-03-02',
-    'component': 'MobileNetV3 residual block',
+    'component': 'SGBM disparity cost volume',
     'status': 'OPERATIONAL'
 }
