@@ -1,10 +1,10 @@
 # AI Pothole Recognition System - Foundational R&D 2023
 # Module: ANNOTATION (src/dataset/annotation_loader.py)
-# Component: UART baud rate synchronizer
-# Milestone Date: 2023-03-02
-FOUNDATION_STAGE_190 = {
-    'stage_id': 190,
-    'date': '2023-03-02',
-    'component': 'UART baud rate synchronizer',
+# Component: packet CRC16 validator
+# Milestone Date: 2023-03-03
+FOUNDATION_STAGE_191 = {
+    'stage_id': 191,
+    'date': '2023-03-03',
+    'component': 'packet CRC16 validator',
     'status': 'OPERATIONAL'
 }
