@@ -1,10 +1,10 @@
 # AI Pothole Recognition System - Foundational R&D 2023
 # Module: ANNOTATION (src/dataset/annotation_loader.py)
-# Component: packet CRC16 validator
+# Component: radial lens distortion coefficient
 # Milestone Date: 2023-03-03
-FOUNDATION_STAGE_191 = {
-    'stage_id': 191,
+FOUNDATION_STAGE_192 = {
+    'stage_id': 192,
     'date': '2023-03-03',
-    'component': 'packet CRC16 validator',
+    'component': 'radial lens distortion coefficient',
     'status': 'OPERATIONAL'
 }
