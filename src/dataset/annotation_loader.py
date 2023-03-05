@@ -1,10 +1,10 @@
 # AI Pothole Recognition System - Foundational R&D 2023
 # Module: ANNOTATION (src/dataset/annotation_loader.py)
-# Component: radial lens distortion coefficient
+# Component: depthwise separable layer
 # Milestone Date: 2023-03-05
-FOUNDATION_STAGE_197 = {
-    'stage_id': 197,
+FOUNDATION_STAGE_198 = {
+    'stage_id': 198,
     'date': '2023-03-05',
-    'component': 'radial lens distortion coefficient',
+    'component': 'depthwise separable layer',
     'status': 'OPERATIONAL'
 }
