@@ -1,10 +1,10 @@
 # AI Pothole Recognition System - Foundational R&D 2023
 # Module: ANNOTATION (src/dataset/annotation_loader.py)
-# Component: crack polygon skeleton
+# Component: stale buffer eviction policy
 # Milestone Date: 2023-03-06
-FOUNDATION_STAGE_202 = {
-    'stage_id': 202,
+FOUNDATION_STAGE_203 = {
+    'stage_id': 203,
     'date': '2023-03-06',
-    'component': 'crack polygon skeleton',
+    'component': 'stale buffer eviction policy',
     'status': 'OPERATIONAL'
 }
