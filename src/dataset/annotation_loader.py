@@ -1,10 +1,10 @@
 # AI Pothole Recognition System - Foundational R&D 2023
 # Module: ANNOTATION (src/dataset/annotation_loader.py)
-# Component: visual-inertial fusion gate
+# Component: embedded GPU inference harness
 # Milestone Date: 2023-03-06
-FOUNDATION_STAGE_200 = {
-    'stage_id': 200,
+FOUNDATION_STAGE_201 = {
+    'stage_id': 201,
     'date': '2023-03-06',
-    'component': 'visual-inertial fusion gate',
+    'component': 'embedded GPU inference harness',
     'status': 'OPERATIONAL'
 }
