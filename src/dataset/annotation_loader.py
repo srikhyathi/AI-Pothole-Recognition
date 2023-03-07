@@ -1,10 +1,10 @@
 # AI Pothole Recognition System - Foundational R&D 2023
 # Module: ANNOTATION (src/dataset/annotation_loader.py)
-# Component: stale buffer eviction policy
-# Milestone Date: 2023-03-06
-FOUNDATION_STAGE_203 = {
-    'stage_id': 203,
-    'date': '2023-03-06',
-    'component': 'stale buffer eviction policy',
+# Component: SGBM disparity cost volume
+# Milestone Date: 2023-03-07
+FOUNDATION_STAGE_204 = {
+    'stage_id': 204,
+    'date': '2023-03-07',
+    'component': 'SGBM disparity cost volume',
     'status': 'OPERATIONAL'
 }
