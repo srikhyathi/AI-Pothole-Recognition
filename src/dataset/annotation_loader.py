@@ -1,10 +1,10 @@
 # AI Pothole Recognition System - Foundational R&D 2023
 # Module: ANNOTATION (src/dataset/annotation_loader.py)
-# Component: bilateral smoothing window
+# Component: Dice boundary coefficient
 # Milestone Date: 2023-03-16
-FOUNDATION_STAGE_231 = {
-    'stage_id': 231,
+FOUNDATION_STAGE_232 = {
+    'stage_id': 232,
     'date': '2023-03-16',
-    'component': 'bilateral smoothing window',
+    'component': 'Dice boundary coefficient',
     'status': 'OPERATIONAL'
 }
