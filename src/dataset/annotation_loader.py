@@ -1,10 +1,10 @@
 # AI Pothole Recognition System - Foundational R&D 2023
 # Module: ANNOTATION (src/dataset/annotation_loader.py)
-# Component: EKF state covariance matrix
+# Component: driver reaction latency timer
 # Milestone Date: 2023-03-21
-FOUNDATION_STAGE_243 = {
-    'stage_id': 243,
+FOUNDATION_STAGE_244 = {
+    'stage_id': 244,
     'date': '2023-03-21',
-    'component': 'EKF state covariance matrix',
+    'component': 'driver reaction latency timer',
     'status': 'OPERATIONAL'
 }
