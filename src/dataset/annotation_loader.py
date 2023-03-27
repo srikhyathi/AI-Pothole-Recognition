@@ -1,10 +1,10 @@
 # AI Pothole Recognition System - Foundational R&D 2023
 # Module: ANNOTATION (src/dataset/annotation_loader.py)
-# Component: OLED warning banner renderer
+# Component: bilateral smoothing window
 # Milestone Date: 2023-03-27
-FOUNDATION_STAGE_263 = {
-    'stage_id': 263,
+FOUNDATION_STAGE_264 = {
+    'stage_id': 264,
     'date': '2023-03-27',
-    'component': 'OLED warning banner renderer',
+    'component': 'bilateral smoothing window',
     'status': 'OPERATIONAL'
 }
