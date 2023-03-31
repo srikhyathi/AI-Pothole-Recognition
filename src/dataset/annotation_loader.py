@@ -1,10 +1,10 @@
 # AI Pothole Recognition System - Foundational R&D 2023
 # Module: ANNOTATION (src/dataset/annotation_loader.py)
-# Component: MPU-6050 accelerometer packet
-# Milestone Date: 2023-03-30
-FOUNDATION_STAGE_276 = {
-    'stage_id': 276,
-    'date': '2023-03-30',
-    'component': 'MPU-6050 accelerometer packet',
+# Component: visual-inertial fusion gate
+# Milestone Date: 2023-03-31
+FOUNDATION_STAGE_277 = {
+    'stage_id': 277,
+    'date': '2023-03-31',
+    'component': 'visual-inertial fusion gate',
     'status': 'OPERATIONAL'
 }
