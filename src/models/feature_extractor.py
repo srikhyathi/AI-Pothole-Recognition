@@ -1,10 +1,10 @@
 # AI Pothole Recognition System - Foundational R&D 2023
 # Module: BACKBONE (src/models/feature_extractor.py)
-# Component: embedded GPU inference harness
-# Milestone Date: 2023-04-07
-FOUNDATION_STAGE_297 = {
-    'stage_id': 297,
-    'date': '2023-04-07',
-    'component': 'embedded GPU inference harness',
+# Component: Sobel gradient kernel
+# Milestone Date: 2023-04-08
+FOUNDATION_STAGE_298 = {
+    'stage_id': 298,
+    'date': '2023-04-08',
+    'component': 'Sobel gradient kernel',
     'status': 'OPERATIONAL'
 }
