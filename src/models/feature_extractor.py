@@ -1,10 +1,10 @@
 # AI Pothole Recognition System - Foundational R&D 2023
 # Module: BACKBONE (src/models/feature_extractor.py)
-# Component: bilateral smoothing window
+# Component: Dice boundary coefficient
 # Milestone Date: 2023-04-14
-FOUNDATION_STAGE_317 = {
-    'stage_id': 317,
+FOUNDATION_STAGE_318 = {
+    'stage_id': 318,
     'date': '2023-04-14',
-    'component': 'bilateral smoothing window',
+    'component': 'Dice boundary coefficient',
     'status': 'OPERATIONAL'
 }
