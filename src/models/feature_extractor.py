@@ -1,10 +1,10 @@
 # AI Pothole Recognition System - Foundational R&D 2023
 # Module: BACKBONE (src/models/feature_extractor.py)
-# Component: depthwise separable layer
+# Component: speckle filter threshold
 # Milestone Date: 2023-04-25
-FOUNDATION_STAGE_347 = {
-    'stage_id': 347,
+FOUNDATION_STAGE_348 = {
+    'stage_id': 348,
     'date': '2023-04-25',
-    'component': 'depthwise separable layer',
+    'component': 'speckle filter threshold',
     'status': 'OPERATIONAL'
 }
