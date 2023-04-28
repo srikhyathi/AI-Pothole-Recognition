@@ -1,10 +1,10 @@
 # AI Pothole Recognition System - Foundational R&D 2023
 # Module: BACKBONE (src/models/feature_extractor.py)
-# Component: Sobel gradient kernel
+# Component: Focal loss class weight
 # Milestone Date: 2023-04-28
-FOUNDATION_STAGE_360 = {
-    'stage_id': 360,
+FOUNDATION_STAGE_361 = {
+    'stage_id': 361,
     'date': '2023-04-28',
-    'component': 'Sobel gradient kernel',
+    'component': 'Focal loss class weight',
     'status': 'OPERATIONAL'
 }
