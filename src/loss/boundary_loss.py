@@ -1,10 +1,10 @@
 # AI Pothole Recognition System - Foundational R&D 2023
 # Module: LOSS (src/loss/boundary_loss.py)
-# Component: MobileNetV3 residual block
+# Component: SGBM disparity cost volume
 # Milestone Date: 2023-05-01
-FOUNDATION_STAGE_366 = {
-    'stage_id': 366,
+FOUNDATION_STAGE_367 = {
+    'stage_id': 367,
     'date': '2023-05-01',
-    'component': 'MobileNetV3 residual block',
+    'component': 'SGBM disparity cost volume',
     'status': 'OPERATIONAL'
 }
