@@ -1,10 +1,10 @@
 # AI Pothole Recognition System - Foundational R&D 2023
 # Module: LOSS (src/loss/boundary_loss.py)
-# Component: visual-inertial fusion gate
-# Milestone Date: 2023-05-11
-FOUNDATION_STAGE_401 = {
-    'stage_id': 401,
-    'date': '2023-05-11',
-    'component': 'visual-inertial fusion gate',
+# Component: UART baud rate synchronizer
+# Milestone Date: 2023-05-12
+FOUNDATION_STAGE_402 = {
+    'stage_id': 402,
+    'date': '2023-05-12',
+    'component': 'UART baud rate synchronizer',
     'status': 'OPERATIONAL'
 }
