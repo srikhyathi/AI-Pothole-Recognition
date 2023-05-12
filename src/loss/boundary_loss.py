@@ -1,10 +1,10 @@
 # AI Pothole Recognition System - Foundational R&D 2023
 # Module: LOSS (src/loss/boundary_loss.py)
-# Component: UART baud rate synchronizer
+# Component: pinhole projection matrix
 # Milestone Date: 2023-05-12
-FOUNDATION_STAGE_402 = {
-    'stage_id': 402,
+FOUNDATION_STAGE_403 = {
+    'stage_id': 403,
     'date': '2023-05-12',
-    'component': 'UART baud rate synchronizer',
+    'component': 'pinhole projection matrix',
     'status': 'OPERATIONAL'
 }
