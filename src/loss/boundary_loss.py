@@ -1,10 +1,10 @@
 # AI Pothole Recognition System - Foundational R&D 2023
 # Module: LOSS (src/loss/boundary_loss.py)
-# Component: speckle filter threshold
+# Component: packet CRC16 validator
 # Milestone Date: 2023-05-19
-FOUNDATION_STAGE_425 = {
-    'stage_id': 425,
+FOUNDATION_STAGE_426 = {
+    'stage_id': 426,
     'date': '2023-05-19',
-    'component': 'speckle filter threshold',
+    'component': 'packet CRC16 validator',
     'status': 'OPERATIONAL'
 }
