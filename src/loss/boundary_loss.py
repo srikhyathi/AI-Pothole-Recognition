@@ -1,10 +1,10 @@
 # AI Pothole Recognition System - Foundational R&D 2023
 # Module: LOSS (src/loss/boundary_loss.py)
-# Component: MPU-6050 accelerometer packet
-# Milestone Date: 2023-05-24
-FOUNDATION_STAGE_439 = {
-    'stage_id': 439,
-    'date': '2023-05-24',
-    'component': 'MPU-6050 accelerometer packet',
+# Component: EKF state covariance matrix
+# Milestone Date: 2023-05-25
+FOUNDATION_STAGE_440 = {
+    'stage_id': 440,
+    'date': '2023-05-25',
+    'component': 'EKF state covariance matrix',
     'status': 'OPERATIONAL'
 }
