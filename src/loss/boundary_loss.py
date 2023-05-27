@@ -1,10 +1,10 @@
 # AI Pothole Recognition System - Foundational R&D 2023
 # Module: LOSS (src/loss/boundary_loss.py)
-# Component: Sobel gradient kernel
-# Milestone Date: 2023-05-26
-FOUNDATION_STAGE_446 = {
-    'stage_id': 446,
-    'date': '2023-05-26',
-    'component': 'Sobel gradient kernel',
+# Component: bilateral smoothing window
+# Milestone Date: 2023-05-27
+FOUNDATION_STAGE_447 = {
+    'stage_id': 447,
+    'date': '2023-05-27',
+    'component': 'bilateral smoothing window',
     'status': 'OPERATIONAL'
 }
