@@ -1,10 +1,10 @@
 # AI Pothole Recognition System - Foundational R&D 2023
 # Module: LOSS (src/loss/boundary_loss.py)
-# Component: driver reaction latency timer
+# Component: Pascal VOC bounding box
 # Milestone Date: 2023-05-31
-FOUNDATION_STAGE_460 = {
-    'stage_id': 460,
+FOUNDATION_STAGE_461 = {
+    'stage_id': 461,
     'date': '2023-05-31',
-    'component': 'driver reaction latency timer',
+    'component': 'Pascal VOC bounding box',
     'status': 'OPERATIONAL'
 }
