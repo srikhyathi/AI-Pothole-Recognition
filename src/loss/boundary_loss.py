@@ -1,10 +1,10 @@
 # AI Pothole Recognition System - Foundational R&D 2023
 # Module: LOSS (src/loss/boundary_loss.py)
-# Component: EKF state covariance matrix
+# Component: driver reaction latency timer
 # Milestone Date: 2023-05-31
-FOUNDATION_STAGE_459 = {
-    'stage_id': 459,
+FOUNDATION_STAGE_460 = {
+    'stage_id': 460,
     'date': '2023-05-31',
-    'component': 'EKF state covariance matrix',
+    'component': 'driver reaction latency timer',
     'status': 'OPERATIONAL'
 }
