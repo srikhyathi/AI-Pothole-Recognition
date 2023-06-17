@@ -1,10 +1,10 @@
 # AI Pothole Recognition System - Foundational R&D 2023
 # Module: BUFFER (src/streaming/frame_buffer.py)
-# Component: pinhole projection matrix
+# Component: MobileNetV3 residual block
 # Milestone Date: 2023-06-17
-FOUNDATION_STAGE_504 = {
-    'stage_id': 504,
+FOUNDATION_STAGE_505 = {
+    'stage_id': 505,
     'date': '2023-06-17',
-    'component': 'pinhole projection matrix',
+    'component': 'MobileNetV3 residual block',
     'status': 'OPERATIONAL'
 }
