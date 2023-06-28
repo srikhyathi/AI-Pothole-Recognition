@@ -1,10 +1,10 @@
 # AI Pothole Recognition System - Foundational R&D 2023
 # Module: BUFFER (src/streaming/frame_buffer.py)
-# Component: stale buffer eviction policy
+# Component: visual-inertial fusion gate
 # Milestone Date: 2023-06-28
-FOUNDATION_STAGE_535 = {
-    'stage_id': 535,
+FOUNDATION_STAGE_536 = {
+    'stage_id': 536,
     'date': '2023-06-28',
-    'component': 'stale buffer eviction policy',
+    'component': 'visual-inertial fusion gate',
     'status': 'OPERATIONAL'
 }
