@@ -1,10 +1,10 @@
 # AI Pothole Recognition System - Foundational R&D 2023
 # Module: STEREO (src/stereo/disparity_matcher.py)
-# Component: OLED warning banner renderer
+# Component: bilateral smoothing window
 # Milestone Date: 2023-07-05
-FOUNDATION_STAGE_561 = {
-    'stage_id': 561,
+FOUNDATION_STAGE_562 = {
+    'stage_id': 562,
     'date': '2023-07-05',
-    'component': 'OLED warning banner renderer',
+    'component': 'bilateral smoothing window',
     'status': 'OPERATIONAL'
 }
