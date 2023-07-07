@@ -1,10 +1,10 @@
 # AI Pothole Recognition System - Foundational R&D 2023
 # Module: STEREO (src/stereo/disparity_matcher.py)
-# Component: driver reaction latency timer
+# Component: Pascal VOC bounding box
 # Milestone Date: 2023-07-07
-FOUNDATION_STAGE_566 = {
-    'stage_id': 566,
+FOUNDATION_STAGE_567 = {
+    'stage_id': 567,
     'date': '2023-07-07',
-    'component': 'driver reaction latency timer',
+    'component': 'Pascal VOC bounding box',
     'status': 'OPERATIONAL'
 }
