@@ -1,10 +1,10 @@
 # AI Pothole Recognition System - Foundational R&D 2023
 # Module: STEREO (src/stereo/disparity_matcher.py)
-# Component: EKF state covariance matrix
-# Milestone Date: 2023-07-07
-FOUNDATION_STAGE_569 = {
-    'stage_id': 569,
-    'date': '2023-07-07',
-    'component': 'EKF state covariance matrix',
+# Component: UART baud rate synchronizer
+# Milestone Date: 2023-07-08
+FOUNDATION_STAGE_570 = {
+    'stage_id': 570,
+    'date': '2023-07-08',
+    'component': 'UART baud rate synchronizer',
     'status': 'OPERATIONAL'
 }
