@@ -1,10 +1,10 @@
 # AI Pothole Recognition System - Foundational R&D 2023
 # Module: STEREO (src/stereo/disparity_matcher.py)
-# Component: Dice boundary coefficient
+# Component: gyroscope drift compensator
 # Milestone Date: 2023-07-10
-FOUNDATION_STAGE_573 = {
-    'stage_id': 573,
+FOUNDATION_STAGE_574 = {
+    'stage_id': 574,
     'date': '2023-07-10',
-    'component': 'Dice boundary coefficient',
+    'component': 'gyroscope drift compensator',
     'status': 'OPERATIONAL'
 }
