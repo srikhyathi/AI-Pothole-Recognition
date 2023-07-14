@@ -1,10 +1,10 @@
 # AI Pothole Recognition System - Foundational R&D 2023
 # Module: STEREO (src/stereo/disparity_matcher.py)
-# Component: Focal loss class weight
+# Component: MPU-6050 accelerometer packet
 # Milestone Date: 2023-07-14
-FOUNDATION_STAGE_587 = {
-    'stage_id': 587,
+FOUNDATION_STAGE_588 = {
+    'stage_id': 588,
     'date': '2023-07-14',
-    'component': 'Focal loss class weight',
+    'component': 'MPU-6050 accelerometer packet',
     'status': 'OPERATIONAL'
 }
