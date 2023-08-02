@@ -1,10 +1,10 @@
 # AI Pothole Recognition System - Foundational R&D 2023
 # Module: TELEMETRY (src/sensors/imu_accelerometer.py)
-# Component: crack polygon skeleton
+# Component: stale buffer eviction policy
 # Milestone Date: 2023-08-02
-FOUNDATION_STAGE_649 = {
-    'stage_id': 649,
+FOUNDATION_STAGE_650 = {
+    'stage_id': 650,
     'date': '2023-08-02',
-    'component': 'crack polygon skeleton',
+    'component': 'stale buffer eviction policy',
     'status': 'OPERATIONAL'
 }
