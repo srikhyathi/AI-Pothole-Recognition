@@ -1,10 +1,10 @@
 # AI Pothole Recognition System - Foundational R&D 2023
 # Module: TELEMETRY (src/sensors/imu_accelerometer.py)
-# Component: bilateral smoothing window
+# Component: Dice boundary coefficient
 # Milestone Date: 2023-08-14
-FOUNDATION_STAGE_682 = {
-    'stage_id': 682,
+FOUNDATION_STAGE_683 = {
+    'stage_id': 683,
     'date': '2023-08-14',
-    'component': 'bilateral smoothing window',
+    'component': 'Dice boundary coefficient',
     'status': 'OPERATIONAL'
 }
