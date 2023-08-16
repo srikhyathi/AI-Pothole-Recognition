@@ -1,10 +1,10 @@
 # AI Pothole Recognition System - Foundational R&D 2023
 # Module: TELEMETRY (src/sensors/imu_accelerometer.py)
-# Component: dashboard buzzer pulse tone
+# Component: Sobel gradient kernel
 # Milestone Date: 2023-08-16
-FOUNDATION_STAGE_690 = {
-    'stage_id': 690,
+FOUNDATION_STAGE_691 = {
+    'stage_id': 691,
     'date': '2023-08-16',
-    'component': 'dashboard buzzer pulse tone',
+    'component': 'Sobel gradient kernel',
     'status': 'OPERATIONAL'
 }
