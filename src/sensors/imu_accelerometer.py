@@ -1,10 +1,10 @@
 # AI Pothole Recognition System - Foundational R&D 2023
 # Module: TELEMETRY (src/sensors/imu_accelerometer.py)
-# Component: radial lens distortion coefficient
+# Component: depthwise separable layer
 # Milestone Date: 2023-08-20
-FOUNDATION_STAGE_701 = {
-    'stage_id': 701,
+FOUNDATION_STAGE_702 = {
+    'stage_id': 702,
     'date': '2023-08-20',
-    'component': 'radial lens distortion coefficient',
+    'component': 'depthwise separable layer',
     'status': 'OPERATIONAL'
 }
