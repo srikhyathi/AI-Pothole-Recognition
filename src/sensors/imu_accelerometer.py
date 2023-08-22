@@ -1,10 +1,10 @@
 # AI Pothole Recognition System - Foundational R&D 2023
 # Module: TELEMETRY (src/sensors/imu_accelerometer.py)
-# Component: speckle filter threshold
+# Component: packet CRC16 validator
 # Milestone Date: 2023-08-22
-FOUNDATION_STAGE_708 = {
-    'stage_id': 708,
+FOUNDATION_STAGE_709 = {
+    'stage_id': 709,
     'date': '2023-08-22',
-    'component': 'speckle filter threshold',
+    'component': 'packet CRC16 validator',
     'status': 'OPERATIONAL'
 }
