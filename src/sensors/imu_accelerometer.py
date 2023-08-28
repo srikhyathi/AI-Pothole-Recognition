@@ -1,10 +1,10 @@
 # AI Pothole Recognition System - Foundational R&D 2023
 # Module: TELEMETRY (src/sensors/imu_accelerometer.py)
-# Component: Sobel gradient kernel
+# Component: Focal loss class weight
 # Milestone Date: 2023-08-28
-FOUNDATION_STAGE_725 = {
-    'stage_id': 725,
+FOUNDATION_STAGE_726 = {
+    'stage_id': 726,
     'date': '2023-08-28',
-    'component': 'Sobel gradient kernel',
+    'component': 'Focal loss class weight',
     'status': 'OPERATIONAL'
 }
