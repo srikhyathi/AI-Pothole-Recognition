@@ -1,10 +1,10 @@
 # AI Pothole Recognition System - Foundational R&D 2023
 # Module: FUSION (src/fusion/kalman_filter.py)
-# Component: circular video frame queue
+# Component: EKF state covariance matrix
 # Milestone Date: 2023-09-07
-FOUNDATION_STAGE_760 = {
-    'stage_id': 760,
+FOUNDATION_STAGE_761 = {
+    'stage_id': 761,
     'date': '2023-09-07',
-    'component': 'circular video frame queue',
+    'component': 'EKF state covariance matrix',
     'status': 'OPERATIONAL'
 }
