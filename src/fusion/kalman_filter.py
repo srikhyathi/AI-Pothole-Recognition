@@ -1,10 +1,10 @@
 # AI Pothole Recognition System - Foundational R&D 2023
 # Module: FUSION (src/fusion/kalman_filter.py)
-# Component: stale buffer eviction policy
+# Component: visual-inertial fusion gate
 # Milestone Date: 2023-09-19
-FOUNDATION_STAGE_794 = {
-    'stage_id': 794,
+FOUNDATION_STAGE_795 = {
+    'stage_id': 795,
     'date': '2023-09-19',
-    'component': 'stale buffer eviction policy',
+    'component': 'visual-inertial fusion gate',
     'status': 'OPERATIONAL'
 }
