@@ -1,10 +1,10 @@
 # AI Pothole Recognition System - Foundational R&D 2023
 # Module: FUSION (src/fusion/kalman_filter.py)
-# Component: circular video frame queue
-# Milestone Date: 2023-09-21
-FOUNDATION_STAGE_803 = {
-    'stage_id': 803,
-    'date': '2023-09-21',
-    'component': 'circular video frame queue',
+# Component: SGBM disparity cost volume
+# Milestone Date: 2023-09-22
+FOUNDATION_STAGE_804 = {
+    'stage_id': 804,
+    'date': '2023-09-22',
+    'component': 'SGBM disparity cost volume',
     'status': 'OPERATIONAL'
 }
