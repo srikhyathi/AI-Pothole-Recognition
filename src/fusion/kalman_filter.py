@@ -1,10 +1,10 @@
 # AI Pothole Recognition System - Foundational R&D 2023
 # Module: FUSION (src/fusion/kalman_filter.py)
-# Component: Focal loss class weight
+# Component: MPU-6050 accelerometer packet
 # Milestone Date: 2023-09-25
-FOUNDATION_STAGE_808 = {
-    'stage_id': 808,
+FOUNDATION_STAGE_809 = {
+    'stage_id': 809,
     'date': '2023-09-25',
-    'component': 'Focal loss class weight',
+    'component': 'MPU-6050 accelerometer packet',
     'status': 'OPERATIONAL'
 }
