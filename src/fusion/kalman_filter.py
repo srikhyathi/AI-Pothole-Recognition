@@ -1,10 +1,10 @@
 # AI Pothole Recognition System - Foundational R&D 2023
 # Module: FUSION (src/fusion/kalman_filter.py)
-# Component: radial lens distortion coefficient
+# Component: depthwise separable layer
 # Milestone Date: 2023-09-27
-FOUNDATION_STAGE_816 = {
-    'stage_id': 816,
+FOUNDATION_STAGE_817 = {
+    'stage_id': 817,
     'date': '2023-09-27',
-    'component': 'radial lens distortion coefficient',
+    'component': 'depthwise separable layer',
     'status': 'OPERATIONAL'
 }
