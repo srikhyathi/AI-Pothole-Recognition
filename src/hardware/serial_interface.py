@@ -1,10 +1,10 @@
 # AI Pothole Recognition System - Foundational R&D 2023
 # Module: SERIAL (src/hardware/serial_interface.py)
-# Component: depthwise separable layer
-# Milestone Date: 2023-10-04
-FOUNDATION_STAGE_841 = {
-    'stage_id': 841,
-    'date': '2023-10-04',
-    'component': 'depthwise separable layer',
+# Component: circular video frame queue
+# Milestone Date: 2023-10-05
+FOUNDATION_STAGE_842 = {
+    'stage_id': 842,
+    'date': '2023-10-05',
+    'component': 'circular video frame queue',
     'status': 'OPERATIONAL'
 }
