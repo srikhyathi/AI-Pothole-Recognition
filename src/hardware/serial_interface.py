@@ -1,10 +1,10 @@
 # AI Pothole Recognition System - Foundational R&D 2023
 # Module: SERIAL (src/hardware/serial_interface.py)
-# Component: crack polygon skeleton
+# Component: stale buffer eviction policy
 # Milestone Date: 2023-10-06
-FOUNDATION_STAGE_850 = {
-    'stage_id': 850,
+FOUNDATION_STAGE_851 = {
+    'stage_id': 851,
     'date': '2023-10-06',
-    'component': 'crack polygon skeleton',
+    'component': 'stale buffer eviction policy',
     'status': 'OPERATIONAL'
 }
