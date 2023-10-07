@@ -1,10 +1,10 @@
 # AI Pothole Recognition System - Foundational R&D 2023
 # Module: SERIAL (src/hardware/serial_interface.py)
-# Component: stale buffer eviction policy
-# Milestone Date: 2023-10-06
-FOUNDATION_STAGE_851 = {
-    'stage_id': 851,
-    'date': '2023-10-06',
-    'component': 'stale buffer eviction policy',
+# Component: SGBM disparity cost volume
+# Milestone Date: 2023-10-07
+FOUNDATION_STAGE_852 = {
+    'stage_id': 852,
+    'date': '2023-10-07',
+    'component': 'SGBM disparity cost volume',
     'status': 'OPERATIONAL'
 }
