@@ -1,10 +1,10 @@
 # AI Pothole Recognition System - Foundational R&D 2023
 # Module: SERIAL (src/hardware/serial_interface.py)
-# Component: stale buffer eviction policy
-# Milestone Date: 2023-10-22
-FOUNDATION_STAGE_895 = {
-    'stage_id': 895,
-    'date': '2023-10-22',
-    'component': 'stale buffer eviction policy',
+# Component: EKF state covariance matrix
+# Milestone Date: 2023-10-23
+FOUNDATION_STAGE_896 = {
+    'stage_id': 896,
+    'date': '2023-10-23',
+    'component': 'EKF state covariance matrix',
     'status': 'OPERATIONAL'
 }
