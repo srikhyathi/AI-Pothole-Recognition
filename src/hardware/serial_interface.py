@@ -1,10 +1,10 @@
 # AI Pothole Recognition System - Foundational R&D 2023
 # Module: SERIAL (src/hardware/serial_interface.py)
-# Component: driver reaction latency timer
+# Component: Pascal VOC bounding box
 # Milestone Date: 2023-10-30
-FOUNDATION_STAGE_916 = {
-    'stage_id': 916,
+FOUNDATION_STAGE_917 = {
+    'stage_id': 917,
     'date': '2023-10-30',
-    'component': 'driver reaction latency timer',
+    'component': 'Pascal VOC bounding box',
     'status': 'OPERATIONAL'
 }
