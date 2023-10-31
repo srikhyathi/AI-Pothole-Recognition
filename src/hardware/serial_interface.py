@@ -1,10 +1,10 @@
 # AI Pothole Recognition System - Foundational R&D 2023
 # Module: SERIAL (src/hardware/serial_interface.py)
-# Component: MobileNetV3 residual block
+# Component: SGBM disparity cost volume
 # Milestone Date: 2023-10-31
-FOUNDATION_STAGE_918 = {
-    'stage_id': 918,
+FOUNDATION_STAGE_919 = {
+    'stage_id': 919,
     'date': '2023-10-31',
-    'component': 'MobileNetV3 residual block',
+    'component': 'SGBM disparity cost volume',
     'status': 'OPERATIONAL'
 }
