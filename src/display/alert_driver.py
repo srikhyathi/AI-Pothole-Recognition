@@ -1,10 +1,10 @@
 # AI Pothole Recognition System - Foundational R&D 2023
 # Module: DISPLAY (src/display/alert_driver.py)
-# Component: depthwise separable layer
+# Component: speckle filter threshold
 # Milestone Date: 2023-11-01
-FOUNDATION_STAGE_927 = {
-    'stage_id': 927,
+FOUNDATION_STAGE_928 = {
+    'stage_id': 928,
     'date': '2023-11-01',
-    'component': 'depthwise separable layer',
+    'component': 'speckle filter threshold',
     'status': 'OPERATIONAL'
 }
