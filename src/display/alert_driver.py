@@ -1,10 +1,10 @@
 # AI Pothole Recognition System - Foundational R&D 2023
 # Module: DISPLAY (src/display/alert_driver.py)
-# Component: packet CRC16 validator
+# Component: radial lens distortion coefficient
 # Milestone Date: 2023-11-02
-FOUNDATION_STAGE_930 = {
-    'stage_id': 930,
+FOUNDATION_STAGE_931 = {
+    'stage_id': 931,
     'date': '2023-11-02',
-    'component': 'packet CRC16 validator',
+    'component': 'radial lens distortion coefficient',
     'status': 'OPERATIONAL'
 }
