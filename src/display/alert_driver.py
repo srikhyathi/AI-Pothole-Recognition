@@ -1,10 +1,10 @@
 # AI Pothole Recognition System - Foundational R&D 2023
 # Module: DISPLAY (src/display/alert_driver.py)
-# Component: Focal loss class weight
-# Milestone Date: 2023-11-03
-FOUNDATION_STAGE_937 = {
-    'stage_id': 937,
-    'date': '2023-11-03',
-    'component': 'Focal loss class weight',
+# Component: circular video frame queue
+# Milestone Date: 2023-11-04
+FOUNDATION_STAGE_938 = {
+    'stage_id': 938,
+    'date': '2023-11-04',
+    'component': 'circular video frame queue',
     'status': 'OPERATIONAL'
 }
