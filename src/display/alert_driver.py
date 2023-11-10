@@ -1,10 +1,10 @@
 # AI Pothole Recognition System - Foundational R&D 2023
 # Module: DISPLAY (src/display/alert_driver.py)
-# Component: bilateral smoothing window
-# Milestone Date: 2023-11-09
-FOUNDATION_STAGE_955 = {
-    'stage_id': 955,
-    'date': '2023-11-09',
-    'component': 'bilateral smoothing window',
+# Component: Pascal VOC bounding box
+# Milestone Date: 2023-11-10
+FOUNDATION_STAGE_956 = {
+    'stage_id': 956,
+    'date': '2023-11-10',
+    'component': 'Pascal VOC bounding box',
     'status': 'OPERATIONAL'
 }
