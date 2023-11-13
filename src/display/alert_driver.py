@@ -1,10 +1,10 @@
 # AI Pothole Recognition System - Foundational R&D 2023
 # Module: DISPLAY (src/display/alert_driver.py)
-# Component: pinhole projection matrix
-# Milestone Date: 2023-11-12
-FOUNDATION_STAGE_960 = {
-    'stage_id': 960,
-    'date': '2023-11-12',
-    'component': 'pinhole projection matrix',
+# Component: crack polygon skeleton
+# Milestone Date: 2023-11-13
+FOUNDATION_STAGE_961 = {
+    'stage_id': 961,
+    'date': '2023-11-13',
+    'component': 'crack polygon skeleton',
     'status': 'OPERATIONAL'
 }
