@@ -1,10 +1,10 @@
 # AI Pothole Recognition System - Foundational R&D 2023
 # Module: DISPLAY (src/display/alert_driver.py)
-# Component: dashboard buzzer pulse tone
+# Component: Sobel gradient kernel
 # Milestone Date: 2023-11-20
-FOUNDATION_STAGE_983 = {
-    'stage_id': 983,
+FOUNDATION_STAGE_984 = {
+    'stage_id': 984,
     'date': '2023-11-20',
-    'component': 'dashboard buzzer pulse tone',
+    'component': 'Sobel gradient kernel',
     'status': 'OPERATIONAL'
 }
