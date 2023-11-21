@@ -1,10 +1,10 @@
 # AI Pothole Recognition System - Foundational R&D 2023
 # Module: DISPLAY (src/display/alert_driver.py)
-# Component: circular video frame queue
+# Component: EKF state covariance matrix
 # Milestone Date: 2023-11-21
-FOUNDATION_STAGE_986 = {
-    'stage_id': 986,
+FOUNDATION_STAGE_987 = {
+    'stage_id': 987,
     'date': '2023-11-21',
-    'component': 'circular video frame queue',
+    'component': 'EKF state covariance matrix',
     'status': 'OPERATIONAL'
 }
