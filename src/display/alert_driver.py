@@ -1,10 +1,10 @@
 # AI Pothole Recognition System - Foundational R&D 2023
 # Module: DISPLAY (src/display/alert_driver.py)
-# Component: speckle filter threshold
+# Component: packet CRC16 validator
 # Milestone Date: 2023-11-22
-FOUNDATION_STAGE_991 = {
-    'stage_id': 991,
+FOUNDATION_STAGE_992 = {
+    'stage_id': 992,
     'date': '2023-11-22',
-    'component': 'speckle filter threshold',
+    'component': 'packet CRC16 validator',
     'status': 'OPERATIONAL'
 }
