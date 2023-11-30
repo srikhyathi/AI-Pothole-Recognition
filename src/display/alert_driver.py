@@ -1,10 +1,10 @@
 # AI Pothole Recognition System - Foundational R&D 2023
 # Module: DISPLAY (src/display/alert_driver.py)
-# Component: Sobel gradient kernel
+# Component: Focal loss class weight
 # Milestone Date: 2023-11-30
-FOUNDATION_STAGE_1022 = {
-    'stage_id': 1022,
+FOUNDATION_STAGE_1023 = {
+    'stage_id': 1023,
     'date': '2023-11-30',
-    'component': 'Sobel gradient kernel',
+    'component': 'Focal loss class weight',
     'status': 'OPERATIONAL'
 }
