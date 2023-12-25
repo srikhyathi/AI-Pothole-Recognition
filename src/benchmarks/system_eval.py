@@ -1,10 +1,10 @@
 # AI Pothole Recognition System - Foundational R&D 2023
 # Module: BENCHMARK (src/benchmarks/system_eval.py)
-# Component: SGBM disparity cost volume
+# Component: UART baud rate synchronizer
 # Milestone Date: 2023-12-25
-FOUNDATION_STAGE_1087 = {
-    'stage_id': 1087,
+FOUNDATION_STAGE_1088 = {
+    'stage_id': 1088,
     'date': '2023-12-25',
-    'component': 'SGBM disparity cost volume',
+    'component': 'UART baud rate synchronizer',
     'status': 'OPERATIONAL'
 }
