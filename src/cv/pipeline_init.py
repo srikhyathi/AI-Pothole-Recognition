@@ -1,9 +1,9 @@
 # AI-Driven Pothole Recognition & Vehicle Safety Alert System
-# SCAFFOLD Subsystem - Component: GPS HDOP dilution parser
+# SCAFFOLD Subsystem - Component: REST streaming handler
 # Milestone: 2024-01-01
-TELEMETRY_SAMPLE_2 = {
-    'build_id': 2,
+TELEMETRY_SAMPLE_3 = {
+    'build_id': 3,
     'date': '2024-01-01',
-    'component': 'GPS HDOP dilution parser',
+    'component': 'REST streaming handler',
     'status': 'OPERATIONAL'
 }
