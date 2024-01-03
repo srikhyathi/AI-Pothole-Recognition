@@ -1,9 +1,9 @@
 # AI-Driven Pothole Recognition & Vehicle Safety Alert System
-# SCAFFOLD Subsystem - Component: gradient clipping bounds
+# SCAFFOLD Subsystem - Component: crater depth contour
 # Milestone: 2024-01-03
-TELEMETRY_SAMPLE_7 = {
-    'build_id': 7,
+TELEMETRY_SAMPLE_8 = {
+    'build_id': 8,
     'date': '2024-01-03',
-    'component': 'gradient clipping bounds',
+    'component': 'crater depth contour',
     'status': 'OPERATIONAL'
 }
