@@ -1,9 +1,9 @@
 # AI-Driven Pothole Recognition & Vehicle Safety Alert System
-# SCAFFOLD Subsystem - Component: defect classification head
-# Milestone: 2024-01-03
-TELEMETRY_SAMPLE_10 = {
-    'build_id': 10,
-    'date': '2024-01-03',
-    'component': 'defect classification head',
+# SCAFFOLD Subsystem - Component: bounding box IoU evaluator
+# Milestone: 2024-01-04
+TELEMETRY_SAMPLE_11 = {
+    'build_id': 11,
+    'date': '2024-01-04',
+    'component': 'bounding box IoU evaluator',
     'status': 'OPERATIONAL'
 }
