@@ -1,9 +1,9 @@
 # AI-Driven Pothole Recognition & Vehicle Safety Alert System
-# SCAFFOLD Subsystem - Component: acoustic pulse generator
+# SCAFFOLD Subsystem - Component: asphalt texture normalizer
 # Milestone: 2024-01-04
-TELEMETRY_SAMPLE_12 = {
-    'build_id': 12,
+TELEMETRY_SAMPLE_13 = {
+    'build_id': 13,
     'date': '2024-01-04',
-    'component': 'acoustic pulse generator',
+    'component': 'asphalt texture normalizer',
     'status': 'OPERATIONAL'
 }
