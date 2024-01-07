@@ -1,9 +1,9 @@
 # AI-Driven Pothole Recognition & Vehicle Safety Alert System
-# SCAFFOLD Subsystem - Component: REST streaming handler
-# Milestone: 2024-01-06
-TELEMETRY_SAMPLE_17 = {
-    'build_id': 17,
-    'date': '2024-01-06',
-    'component': 'REST streaming handler',
+# SCAFFOLD Subsystem - Component: defect classification head
+# Milestone: 2024-01-07
+TELEMETRY_SAMPLE_18 = {
+    'build_id': 18,
+    'date': '2024-01-07',
+    'component': 'defect classification head',
     'status': 'OPERATIONAL'
 }
