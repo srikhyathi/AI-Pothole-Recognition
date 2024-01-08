@@ -1,9 +1,9 @@
 # AI-Driven Pothole Recognition & Vehicle Safety Alert System
-# SCAFFOLD Subsystem - Component: asphalt texture normalizer
+# SCAFFOLD Subsystem - Component: temporal state filter
 # Milestone: 2024-01-08
-TELEMETRY_SAMPLE_20 = {
-    'build_id': 20,
+TELEMETRY_SAMPLE_21 = {
+    'build_id': 21,
     'date': '2024-01-08',
-    'component': 'asphalt texture normalizer',
+    'component': 'temporal state filter',
     'status': 'OPERATIONAL'
 }
