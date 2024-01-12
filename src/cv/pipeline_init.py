@@ -1,9 +1,9 @@
 # AI-Driven Pothole Recognition & Vehicle Safety Alert System
-# SCAFFOLD Subsystem - Component: bilateral filter kernel
+# SCAFFOLD Subsystem - Component: frame ring buffer
 # Milestone: 2024-01-12
-TELEMETRY_SAMPLE_38 = {
-    'build_id': 38,
+TELEMETRY_SAMPLE_39 = {
+    'build_id': 39,
     'date': '2024-01-12',
-    'component': 'bilateral filter kernel',
+    'component': 'frame ring buffer',
     'status': 'OPERATIONAL'
 }
