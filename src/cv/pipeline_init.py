@@ -1,9 +1,9 @@
 # AI-Driven Pothole Recognition & Vehicle Safety Alert System
-# SCAFFOLD Subsystem - Component: optical flow vector field
+# SCAFFOLD Subsystem - Component: GPS HDOP dilution parser
 # Milestone: 2024-01-22
-TELEMETRY_SAMPLE_61 = {
-    'build_id': 61,
+TELEMETRY_SAMPLE_62 = {
+    'build_id': 62,
     'date': '2024-01-22',
-    'component': 'optical flow vector field',
+    'component': 'GPS HDOP dilution parser',
     'status': 'OPERATIONAL'
 }
