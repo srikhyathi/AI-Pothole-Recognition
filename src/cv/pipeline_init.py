@@ -1,9 +1,9 @@
 # AI-Driven Pothole Recognition & Vehicle Safety Alert System
-# SCAFFOLD Subsystem - Component: REST streaming handler
+# SCAFFOLD Subsystem - Component: sliding window stride
 # Milestone: 2024-01-22
-TELEMETRY_SAMPLE_63 = {
-    'build_id': 63,
+TELEMETRY_SAMPLE_64 = {
+    'build_id': 64,
     'date': '2024-01-22',
-    'component': 'REST streaming handler',
+    'component': 'sliding window stride',
     'status': 'OPERATIONAL'
 }
