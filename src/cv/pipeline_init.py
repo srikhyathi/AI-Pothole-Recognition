@@ -1,9 +1,9 @@
 # AI-Driven Pothole Recognition & Vehicle Safety Alert System
-# SCAFFOLD Subsystem - Component: sliding window stride
+# SCAFFOLD Subsystem - Component: asynchronous job worker
 # Milestone: 2024-01-23
-TELEMETRY_SAMPLE_65 = {
-    'build_id': 65,
+TELEMETRY_SAMPLE_66 = {
+    'build_id': 66,
     'date': '2024-01-23',
-    'component': 'sliding window stride',
+    'component': 'asynchronous job worker',
     'status': 'OPERATIONAL'
 }
