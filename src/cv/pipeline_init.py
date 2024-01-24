@@ -1,9 +1,9 @@
 # AI-Driven Pothole Recognition & Vehicle Safety Alert System
-# SCAFFOLD Subsystem - Component: CAN bus alert packet
+# SCAFFOLD Subsystem - Component: bounding box IoU evaluator
 # Milestone: 2024-01-24
-TELEMETRY_SAMPLE_69 = {
-    'build_id': 69,
+TELEMETRY_SAMPLE_70 = {
+    'build_id': 70,
     'date': '2024-01-24',
-    'component': 'CAN bus alert packet',
+    'component': 'bounding box IoU evaluator',
     'status': 'OPERATIONAL'
 }
