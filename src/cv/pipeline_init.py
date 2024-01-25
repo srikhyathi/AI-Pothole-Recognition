@@ -1,9 +1,9 @@
 # AI-Driven Pothole Recognition & Vehicle Safety Alert System
-# SCAFFOLD Subsystem - Component: bounding box IoU evaluator
+# SCAFFOLD Subsystem - Component: acoustic pulse generator
 # Milestone: 2024-01-25
-TELEMETRY_SAMPLE_71 = {
-    'build_id': 71,
+TELEMETRY_SAMPLE_72 = {
+    'build_id': 72,
     'date': '2024-01-25',
-    'component': 'bounding box IoU evaluator',
+    'component': 'acoustic pulse generator',
     'status': 'OPERATIONAL'
 }
