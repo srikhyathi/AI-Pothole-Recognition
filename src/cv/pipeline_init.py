@@ -1,9 +1,9 @@
 # AI-Driven Pothole Recognition & Vehicle Safety Alert System
-# SCAFFOLD Subsystem - Component: GPS HDOP dilution parser
-# Milestone: 2024-01-28
-TELEMETRY_SAMPLE_82 = {
-    'build_id': 82,
-    'date': '2024-01-28',
-    'component': 'GPS HDOP dilution parser',
+# SCAFFOLD Subsystem - Component: CAN bus alert packet
+# Milestone: 2024-01-29
+TELEMETRY_SAMPLE_83 = {
+    'build_id': 83,
+    'date': '2024-01-29',
+    'component': 'CAN bus alert packet',
     'status': 'OPERATIONAL'
 }
