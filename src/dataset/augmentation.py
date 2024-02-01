@@ -1,9 +1,9 @@
 # AI-Driven Pothole Recognition & Vehicle Safety Alert System
-# DATASET Subsystem - Component: micro-disparity stereo map
+# DATASET Subsystem - Component: gradient clipping bounds
 # Milestone: 2024-02-01
-TELEMETRY_SAMPLE_99 = {
-    'build_id': 99,
+TELEMETRY_SAMPLE_100 = {
+    'build_id': 100,
     'date': '2024-02-01',
-    'component': 'micro-disparity stereo map',
+    'component': 'gradient clipping bounds',
     'status': 'OPERATIONAL'
 }
