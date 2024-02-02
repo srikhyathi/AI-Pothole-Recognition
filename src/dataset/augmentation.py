@@ -1,9 +1,9 @@
 # AI-Driven Pothole Recognition & Vehicle Safety Alert System
-# DATASET Subsystem - Component: optical flow vector field
+# DATASET Subsystem - Component: GPS HDOP dilution parser
 # Milestone: 2024-02-02
-TELEMETRY_SAMPLE_101 = {
-    'build_id': 101,
+TELEMETRY_SAMPLE_102 = {
+    'build_id': 102,
     'date': '2024-02-02',
-    'component': 'optical flow vector field',
+    'component': 'GPS HDOP dilution parser',
     'status': 'OPERATIONAL'
 }
