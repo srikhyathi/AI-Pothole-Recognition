@@ -1,9 +1,9 @@
 # AI-Driven Pothole Recognition & Vehicle Safety Alert System
-# DATASET Subsystem - Component: asphalt texture normalizer
+# DATASET Subsystem - Component: temporal state filter
 # Milestone: 2024-02-22
-TELEMETRY_SAMPLE_153 = {
-    'build_id': 153,
+TELEMETRY_SAMPLE_154 = {
+    'build_id': 154,
     'date': '2024-02-22',
-    'component': 'asphalt texture normalizer',
+    'component': 'temporal state filter',
     'status': 'OPERATIONAL'
 }
