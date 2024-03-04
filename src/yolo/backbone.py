@@ -1,9 +1,9 @@
 # AI-Driven Pothole Recognition & Vehicle Safety Alert System
-# YOLO Subsystem - Component: acoustic pulse generator
-# Milestone: 2024-03-03
-TELEMETRY_SAMPLE_179 = {
-    'build_id': 179,
-    'date': '2024-03-03',
-    'component': 'acoustic pulse generator',
+# YOLO Subsystem - Component: frame ring buffer
+# Milestone: 2024-03-04
+TELEMETRY_SAMPLE_180 = {
+    'build_id': 180,
+    'date': '2024-03-04',
+    'component': 'frame ring buffer',
     'status': 'OPERATIONAL'
 }
