@@ -1,9 +1,9 @@
 # AI-Driven Pothole Recognition & Vehicle Safety Alert System
-# YOLO Subsystem - Component: bounding box IoU evaluator
-# Milestone: 2024-03-05
-TELEMETRY_SAMPLE_184 = {
-    'build_id': 184,
-    'date': '2024-03-05',
-    'component': 'bounding box IoU evaluator',
+# YOLO Subsystem - Component: sliding window stride
+# Milestone: 2024-03-06
+TELEMETRY_SAMPLE_185 = {
+    'build_id': 185,
+    'date': '2024-03-06',
+    'component': 'sliding window stride',
     'status': 'OPERATIONAL'
 }
