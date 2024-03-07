@@ -1,9 +1,9 @@
 # AI-Driven Pothole Recognition & Vehicle Safety Alert System
-# YOLO Subsystem - Component: GPS HDOP dilution parser
+# YOLO Subsystem - Component: REST streaming handler
 # Milestone: 2024-03-07
-TELEMETRY_SAMPLE_189 = {
-    'build_id': 189,
+TELEMETRY_SAMPLE_190 = {
+    'build_id': 190,
     'date': '2024-03-07',
-    'component': 'GPS HDOP dilution parser',
+    'component': 'REST streaming handler',
     'status': 'OPERATIONAL'
 }
