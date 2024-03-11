@@ -1,9 +1,9 @@
 # AI-Driven Pothole Recognition & Vehicle Safety Alert System
-# YOLO Subsystem - Component: defect classification head
+# YOLO Subsystem - Component: micro-disparity stereo map
 # Milestone: 2024-03-11
-TELEMETRY_SAMPLE_198 = {
-    'build_id': 198,
+TELEMETRY_SAMPLE_199 = {
+    'build_id': 199,
     'date': '2024-03-11',
-    'component': 'defect classification head',
+    'component': 'micro-disparity stereo map',
     'status': 'OPERATIONAL'
 }
