@@ -1,9 +1,9 @@
 # AI-Driven Pothole Recognition & Vehicle Safety Alert System
-# YOLO Subsystem - Component: optical flow vector field
+# YOLO Subsystem - Component: GPS HDOP dilution parser
 # Milestone: 2024-03-12
-TELEMETRY_SAMPLE_201 = {
-    'build_id': 201,
+TELEMETRY_SAMPLE_202 = {
+    'build_id': 202,
     'date': '2024-03-12',
-    'component': 'optical flow vector field',
+    'component': 'GPS HDOP dilution parser',
     'status': 'OPERATIONAL'
 }
