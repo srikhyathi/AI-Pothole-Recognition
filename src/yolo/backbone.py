@@ -1,9 +1,9 @@
 # AI-Driven Pothole Recognition & Vehicle Safety Alert System
-# YOLO Subsystem - Component: bounding box IoU evaluator
+# YOLO Subsystem - Component: acoustic pulse generator
 # Milestone: 2024-03-14
-TELEMETRY_SAMPLE_210 = {
-    'build_id': 210,
+TELEMETRY_SAMPLE_211 = {
+    'build_id': 211,
     'date': '2024-03-14',
-    'component': 'bounding box IoU evaluator',
+    'component': 'acoustic pulse generator',
     'status': 'OPERATIONAL'
 }
