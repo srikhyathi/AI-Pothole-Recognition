@@ -1,9 +1,9 @@
 # AI-Driven Pothole Recognition & Vehicle Safety Alert System
-# YOLO Subsystem - Component: temporal state filter
+# YOLO Subsystem - Component: CAN bus alert packet
 # Milestone: 2024-03-14
-TELEMETRY_SAMPLE_208 = {
-    'build_id': 208,
+TELEMETRY_SAMPLE_209 = {
+    'build_id': 209,
     'date': '2024-03-14',
-    'component': 'temporal state filter',
+    'component': 'CAN bus alert packet',
     'status': 'OPERATIONAL'
 }
