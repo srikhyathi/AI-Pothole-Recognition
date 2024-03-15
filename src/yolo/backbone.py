@@ -1,9 +1,9 @@
 # AI-Driven Pothole Recognition & Vehicle Safety Alert System
-# YOLO Subsystem - Component: frame ring buffer
+# YOLO Subsystem - Component: NMS suppression matrix
 # Milestone: 2024-03-15
-TELEMETRY_SAMPLE_213 = {
-    'build_id': 213,
+TELEMETRY_SAMPLE_214 = {
+    'build_id': 214,
     'date': '2024-03-15',
-    'component': 'frame ring buffer',
+    'component': 'NMS suppression matrix',
     'status': 'OPERATIONAL'
 }
