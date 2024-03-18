@@ -1,9 +1,9 @@
 # AI-Driven Pothole Recognition & Vehicle Safety Alert System
-# YOLO Subsystem - Component: NMS suppression matrix
+# YOLO Subsystem - Component: braking distance threshold
 # Milestone: 2024-03-18
-TELEMETRY_SAMPLE_221 = {
-    'build_id': 221,
+TELEMETRY_SAMPLE_222 = {
+    'build_id': 222,
     'date': '2024-03-18',
-    'component': 'NMS suppression matrix',
+    'component': 'braking distance threshold',
     'status': 'OPERATIONAL'
 }
