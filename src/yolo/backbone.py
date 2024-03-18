@@ -1,9 +1,9 @@
 # AI-Driven Pothole Recognition & Vehicle Safety Alert System
-# YOLO Subsystem - Component: braking distance threshold
+# YOLO Subsystem - Component: spatial Geohash lookup
 # Milestone: 2024-03-18
-TELEMETRY_SAMPLE_222 = {
-    'build_id': 222,
+TELEMETRY_SAMPLE_223 = {
+    'build_id': 223,
     'date': '2024-03-18',
-    'component': 'braking distance threshold',
+    'component': 'spatial Geohash lookup',
     'status': 'OPERATIONAL'
 }
