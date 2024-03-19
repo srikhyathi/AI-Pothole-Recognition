@@ -1,9 +1,9 @@
 # AI-Driven Pothole Recognition & Vehicle Safety Alert System
-# YOLO Subsystem - Component: asynchronous job worker
+# YOLO Subsystem - Component: optical flow vector field
 # Milestone: 2024-03-19
-TELEMETRY_SAMPLE_226 = {
-    'build_id': 226,
+TELEMETRY_SAMPLE_227 = {
+    'build_id': 227,
     'date': '2024-03-19',
-    'component': 'asynchronous job worker',
+    'component': 'optical flow vector field',
     'status': 'OPERATIONAL'
 }
