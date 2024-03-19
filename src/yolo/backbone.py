@@ -1,9 +1,9 @@
 # AI-Driven Pothole Recognition & Vehicle Safety Alert System
-# YOLO Subsystem - Component: bilateral filter kernel
-# Milestone: 2024-03-18
-TELEMETRY_SAMPLE_224 = {
-    'build_id': 224,
-    'date': '2024-03-18',
-    'component': 'bilateral filter kernel',
+# YOLO Subsystem - Component: sliding window stride
+# Milestone: 2024-03-19
+TELEMETRY_SAMPLE_225 = {
+    'build_id': 225,
+    'date': '2024-03-19',
+    'component': 'sliding window stride',
     'status': 'OPERATIONAL'
 }
