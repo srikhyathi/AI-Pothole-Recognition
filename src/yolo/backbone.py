@@ -1,9 +1,9 @@
 # AI-Driven Pothole Recognition & Vehicle Safety Alert System
-# YOLO Subsystem - Component: spatial Geohash lookup
+# YOLO Subsystem - Component: bilateral filter kernel
 # Milestone: 2024-03-20
-TELEMETRY_SAMPLE_230 = {
-    'build_id': 230,
+TELEMETRY_SAMPLE_231 = {
+    'build_id': 231,
     'date': '2024-03-20',
-    'component': 'spatial Geohash lookup',
+    'component': 'bilateral filter kernel',
     'status': 'OPERATIONAL'
 }
