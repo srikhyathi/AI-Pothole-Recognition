@@ -1,9 +1,9 @@
 # AI-Driven Pothole Recognition & Vehicle Safety Alert System
-# YOLO Subsystem - Component: REST streaming handler
+# YOLO Subsystem - Component: sliding window stride
 # Milestone: 2024-03-22
-TELEMETRY_SAMPLE_237 = {
-    'build_id': 237,
+TELEMETRY_SAMPLE_238 = {
+    'build_id': 238,
     'date': '2024-03-22',
-    'component': 'REST streaming handler',
+    'component': 'sliding window stride',
     'status': 'OPERATIONAL'
 }
