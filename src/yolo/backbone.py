@@ -1,9 +1,9 @@
 # AI-Driven Pothole Recognition & Vehicle Safety Alert System
-# YOLO Subsystem - Component: sliding window stride
+# YOLO Subsystem - Component: asynchronous job worker
 # Milestone: 2024-03-22
-TELEMETRY_SAMPLE_238 = {
-    'build_id': 238,
+TELEMETRY_SAMPLE_239 = {
+    'build_id': 239,
     'date': '2024-03-22',
-    'component': 'sliding window stride',
+    'component': 'asynchronous job worker',
     'status': 'OPERATIONAL'
 }
