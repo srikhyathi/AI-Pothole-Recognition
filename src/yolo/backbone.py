@@ -1,9 +1,9 @@
 # AI-Driven Pothole Recognition & Vehicle Safety Alert System
-# YOLO Subsystem - Component: GPS HDOP dilution parser
-# Milestone: 2024-03-24
-TELEMETRY_SAMPLE_242 = {
-    'build_id': 242,
-    'date': '2024-03-24',
-    'component': 'GPS HDOP dilution parser',
+# YOLO Subsystem - Component: CAN bus alert packet
+# Milestone: 2024-03-25
+TELEMETRY_SAMPLE_243 = {
+    'build_id': 243,
+    'date': '2024-03-25',
+    'component': 'CAN bus alert packet',
     'status': 'OPERATIONAL'
 }
