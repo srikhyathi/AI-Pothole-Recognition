@@ -1,9 +1,9 @@
 # AI-Driven Pothole Recognition & Vehicle Safety Alert System
-# YOLO Subsystem - Component: gradient clipping bounds
+# YOLO Subsystem - Component: crater depth contour
 # Milestone: 2024-03-27
-TELEMETRY_SAMPLE_253 = {
-    'build_id': 253,
+TELEMETRY_SAMPLE_254 = {
+    'build_id': 254,
     'date': '2024-03-27',
-    'component': 'gradient clipping bounds',
+    'component': 'crater depth contour',
     'status': 'OPERATIONAL'
 }
