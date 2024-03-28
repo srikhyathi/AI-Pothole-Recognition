@@ -1,9 +1,9 @@
 # AI-Driven Pothole Recognition & Vehicle Safety Alert System
-# YOLO Subsystem - Component: CAN bus alert packet
+# YOLO Subsystem - Component: bounding box IoU evaluator
 # Milestone: 2024-03-28
-TELEMETRY_SAMPLE_256 = {
-    'build_id': 256,
+TELEMETRY_SAMPLE_257 = {
+    'build_id': 257,
     'date': '2024-03-28',
-    'component': 'CAN bus alert packet',
+    'component': 'bounding box IoU evaluator',
     'status': 'OPERATIONAL'
 }
