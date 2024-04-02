@@ -1,9 +1,9 @@
 # AI-Driven Pothole Recognition & Vehicle Safety Alert System
-# INFERENCE Subsystem - Component: crater depth contour
-# Milestone: 2024-04-01
-TELEMETRY_SAMPLE_268 = {
-    'build_id': 268,
-    'date': '2024-04-01',
-    'component': 'crater depth contour',
+# INFERENCE Subsystem - Component: GPS HDOP dilution parser
+# Milestone: 2024-04-02
+TELEMETRY_SAMPLE_269 = {
+    'build_id': 269,
+    'date': '2024-04-02',
+    'component': 'GPS HDOP dilution parser',
     'status': 'OPERATIONAL'
 }
