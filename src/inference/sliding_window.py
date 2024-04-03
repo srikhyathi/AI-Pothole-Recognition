@@ -1,9 +1,9 @@
 # AI-Driven Pothole Recognition & Vehicle Safety Alert System
-# INFERENCE Subsystem - Component: NMS suppression matrix
+# INFERENCE Subsystem - Component: braking distance threshold
 # Milestone: 2024-04-03
-TELEMETRY_SAMPLE_274 = {
-    'build_id': 274,
+TELEMETRY_SAMPLE_275 = {
+    'build_id': 275,
     'date': '2024-04-03',
-    'component': 'NMS suppression matrix',
+    'component': 'braking distance threshold',
     'status': 'OPERATIONAL'
 }
