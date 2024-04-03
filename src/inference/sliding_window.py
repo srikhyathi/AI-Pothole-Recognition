@@ -1,9 +1,9 @@
 # AI-Driven Pothole Recognition & Vehicle Safety Alert System
-# INFERENCE Subsystem - Component: frame ring buffer
+# INFERENCE Subsystem - Component: NMS suppression matrix
 # Milestone: 2024-04-03
-TELEMETRY_SAMPLE_273 = {
-    'build_id': 273,
+TELEMETRY_SAMPLE_274 = {
+    'build_id': 274,
     'date': '2024-04-03',
-    'component': 'frame ring buffer',
+    'component': 'NMS suppression matrix',
     'status': 'OPERATIONAL'
 }
