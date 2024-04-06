@@ -1,9 +1,9 @@
 # AI-Driven Pothole Recognition & Vehicle Safety Alert System
-# INFERENCE Subsystem - Component: asphalt texture normalizer
-# Milestone: 2024-04-05
-TELEMETRY_SAMPLE_280 = {
-    'build_id': 280,
-    'date': '2024-04-05',
-    'component': 'asphalt texture normalizer',
+# INFERENCE Subsystem - Component: optical flow vector field
+# Milestone: 2024-04-06
+TELEMETRY_SAMPLE_281 = {
+    'build_id': 281,
+    'date': '2024-04-06',
+    'component': 'optical flow vector field',
     'status': 'OPERATIONAL'
 }
