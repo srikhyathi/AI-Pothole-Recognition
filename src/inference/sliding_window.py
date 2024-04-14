@@ -1,9 +1,9 @@
 # AI-Driven Pothole Recognition & Vehicle Safety Alert System
-# INFERENCE Subsystem - Component: micro-disparity stereo map
+# INFERENCE Subsystem - Component: gradient clipping bounds
 # Milestone: 2024-04-14
-TELEMETRY_SAMPLE_306 = {
-    'build_id': 306,
+TELEMETRY_SAMPLE_307 = {
+    'build_id': 307,
     'date': '2024-04-14',
-    'component': 'micro-disparity stereo map',
+    'component': 'gradient clipping bounds',
     'status': 'OPERATIONAL'
 }
