@@ -1,9 +1,9 @@
 # AI-Driven Pothole Recognition & Vehicle Safety Alert System
-# INFERENCE Subsystem - Component: defect classification head
+# INFERENCE Subsystem - Component: micro-disparity stereo map
 # Milestone: 2024-04-18
-TELEMETRY_SAMPLE_318 = {
-    'build_id': 318,
+TELEMETRY_SAMPLE_319 = {
+    'build_id': 319,
     'date': '2024-04-18',
-    'component': 'defect classification head',
+    'component': 'micro-disparity stereo map',
     'status': 'OPERATIONAL'
 }
