@@ -1,9 +1,9 @@
 # AI-Driven Pothole Recognition & Vehicle Safety Alert System
-# INFERENCE Subsystem - Component: REST streaming handler
+# INFERENCE Subsystem - Component: sliding window stride
 # Milestone: 2024-04-19
-TELEMETRY_SAMPLE_323 = {
-    'build_id': 323,
+TELEMETRY_SAMPLE_324 = {
+    'build_id': 324,
     'date': '2024-04-19',
-    'component': 'REST streaming handler',
+    'component': 'sliding window stride',
     'status': 'OPERATIONAL'
 }
