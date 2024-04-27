@@ -1,9 +1,9 @@
 # AI-Driven Pothole Recognition & Vehicle Safety Alert System
-# INFERENCE Subsystem - Component: TensorRT calibration cache
+# INFERENCE Subsystem - Component: defect classification head
 # Milestone: 2024-04-27
-TELEMETRY_SAMPLE_350 = {
-    'build_id': 350,
+TELEMETRY_SAMPLE_351 = {
+    'build_id': 351,
     'date': '2024-04-27',
-    'component': 'TensorRT calibration cache',
+    'component': 'defect classification head',
     'status': 'OPERATIONAL'
 }
