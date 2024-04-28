@@ -1,9 +1,9 @@
 # AI-Driven Pothole Recognition & Vehicle Safety Alert System
-# INFERENCE Subsystem - Component: defect classification head
-# Milestone: 2024-04-27
-TELEMETRY_SAMPLE_351 = {
-    'build_id': 351,
-    'date': '2024-04-27',
-    'component': 'defect classification head',
+# INFERENCE Subsystem - Component: bilateral filter kernel
+# Milestone: 2024-04-28
+TELEMETRY_SAMPLE_352 = {
+    'build_id': 352,
+    'date': '2024-04-28',
+    'component': 'bilateral filter kernel',
     'status': 'OPERATIONAL'
 }
