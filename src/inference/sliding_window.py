@@ -1,9 +1,9 @@
 # AI-Driven Pothole Recognition & Vehicle Safety Alert System
-# INFERENCE Subsystem - Component: GPS HDOP dilution parser
+# INFERENCE Subsystem - Component: REST streaming handler
 # Milestone: 2024-04-29
-TELEMETRY_SAMPLE_355 = {
-    'build_id': 355,
+TELEMETRY_SAMPLE_356 = {
+    'build_id': 356,
     'date': '2024-04-29',
-    'component': 'GPS HDOP dilution parser',
+    'component': 'REST streaming handler',
     'status': 'OPERATIONAL'
 }
