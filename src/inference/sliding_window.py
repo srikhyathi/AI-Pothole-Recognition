@@ -1,9 +1,9 @@
 # AI-Driven Pothole Recognition & Vehicle Safety Alert System
-# INFERENCE Subsystem - Component: asynchronous job worker
+# INFERENCE Subsystem - Component: optical flow vector field
 # Milestone: 2024-04-30
-TELEMETRY_SAMPLE_359 = {
-    'build_id': 359,
+TELEMETRY_SAMPLE_360 = {
+    'build_id': 360,
     'date': '2024-04-30',
-    'component': 'asynchronous job worker',
+    'component': 'optical flow vector field',
     'status': 'OPERATIONAL'
 }
