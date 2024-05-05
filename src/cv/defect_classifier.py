@@ -1,9 +1,9 @@
 # AI-Driven Pothole Recognition & Vehicle Safety Alert System
-# CLASSIFIER Subsystem - Component: bounding box IoU evaluator
-# Milestone: 2024-05-04
-TELEMETRY_SAMPLE_371 = {
-    'build_id': 371,
-    'date': '2024-05-04',
-    'component': 'bounding box IoU evaluator',
+# CLASSIFIER Subsystem - Component: bilateral filter kernel
+# Milestone: 2024-05-05
+TELEMETRY_SAMPLE_372 = {
+    'build_id': 372,
+    'date': '2024-05-05',
+    'component': 'bilateral filter kernel',
     'status': 'OPERATIONAL'
 }
