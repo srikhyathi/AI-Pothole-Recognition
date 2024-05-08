@@ -1,9 +1,9 @@
 # AI-Driven Pothole Recognition & Vehicle Safety Alert System
-# CLASSIFIER Subsystem - Component: sliding window stride
+# CLASSIFIER Subsystem - Component: asynchronous job worker
 # Milestone: 2024-05-08
-TELEMETRY_SAMPLE_384 = {
-    'build_id': 384,
+TELEMETRY_SAMPLE_385 = {
+    'build_id': 385,
     'date': '2024-05-08',
-    'component': 'sliding window stride',
+    'component': 'asynchronous job worker',
     'status': 'OPERATIONAL'
 }
