@@ -1,9 +1,9 @@
 # AI-Driven Pothole Recognition & Vehicle Safety Alert System
-# CLASSIFIER Subsystem - Component: CAN bus alert packet
-# Milestone: 2024-05-12
-TELEMETRY_SAMPLE_396 = {
-    'build_id': 396,
-    'date': '2024-05-12',
-    'component': 'CAN bus alert packet',
+# CLASSIFIER Subsystem - Component: REST streaming handler
+# Milestone: 2024-05-13
+TELEMETRY_SAMPLE_397 = {
+    'build_id': 397,
+    'date': '2024-05-13',
+    'component': 'REST streaming handler',
     'status': 'OPERATIONAL'
 }
