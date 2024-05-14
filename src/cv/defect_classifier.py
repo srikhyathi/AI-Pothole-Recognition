@@ -1,9 +1,9 @@
 # AI-Driven Pothole Recognition & Vehicle Safety Alert System
-# CLASSIFIER Subsystem - Component: GPS HDOP dilution parser
+# CLASSIFIER Subsystem - Component: REST streaming handler
 # Milestone: 2024-05-14
-TELEMETRY_SAMPLE_402 = {
-    'build_id': 402,
+TELEMETRY_SAMPLE_403 = {
+    'build_id': 403,
     'date': '2024-05-14',
-    'component': 'GPS HDOP dilution parser',
+    'component': 'REST streaming handler',
     'status': 'OPERATIONAL'
 }
