@@ -1,9 +1,9 @@
 # AI-Driven Pothole Recognition & Vehicle Safety Alert System
-# CLASSIFIER Subsystem - Component: acoustic pulse generator
+# CLASSIFIER Subsystem - Component: asphalt texture normalizer
 # Milestone: 2024-05-16
-TELEMETRY_SAMPLE_412 = {
-    'build_id': 412,
+TELEMETRY_SAMPLE_413 = {
+    'build_id': 413,
     'date': '2024-05-16',
-    'component': 'acoustic pulse generator',
+    'component': 'asphalt texture normalizer',
     'status': 'OPERATIONAL'
 }
