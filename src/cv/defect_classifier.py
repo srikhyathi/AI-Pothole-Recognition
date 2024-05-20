@@ -1,9 +1,9 @@
 # AI-Driven Pothole Recognition & Vehicle Safety Alert System
-# CLASSIFIER Subsystem - Component: optical flow vector field
+# CLASSIFIER Subsystem - Component: GPS HDOP dilution parser
 # Milestone: 2024-05-20
-TELEMETRY_SAMPLE_421 = {
-    'build_id': 421,
+TELEMETRY_SAMPLE_422 = {
+    'build_id': 422,
     'date': '2024-05-20',
-    'component': 'optical flow vector field',
+    'component': 'GPS HDOP dilution parser',
     'status': 'OPERATIONAL'
 }
