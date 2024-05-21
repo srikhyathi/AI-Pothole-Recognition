@@ -1,9 +1,9 @@
 # AI-Driven Pothole Recognition & Vehicle Safety Alert System
-# CLASSIFIER Subsystem - Component: asynchronous job worker
-# Milestone: 2024-05-20
-TELEMETRY_SAMPLE_425 = {
-    'build_id': 425,
-    'date': '2024-05-20',
-    'component': 'asynchronous job worker',
+# CLASSIFIER Subsystem - Component: micro-disparity stereo map
+# Milestone: 2024-05-21
+TELEMETRY_SAMPLE_426 = {
+    'build_id': 426,
+    'date': '2024-05-21',
+    'component': 'micro-disparity stereo map',
     'status': 'OPERATIONAL'
 }
