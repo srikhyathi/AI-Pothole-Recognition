@@ -1,9 +1,9 @@
 # AI-Driven Pothole Recognition & Vehicle Safety Alert System
-# CLASSIFIER Subsystem - Component: crater depth contour
-# Milestone: 2024-05-25
-TELEMETRY_SAMPLE_442 = {
-    'build_id': 442,
-    'date': '2024-05-25',
-    'component': 'crater depth contour',
+# CLASSIFIER Subsystem - Component: CAN bus alert packet
+# Milestone: 2024-05-26
+TELEMETRY_SAMPLE_443 = {
+    'build_id': 443,
+    'date': '2024-05-26',
+    'component': 'CAN bus alert packet',
     'status': 'OPERATIONAL'
 }
