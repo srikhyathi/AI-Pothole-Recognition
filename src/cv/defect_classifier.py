@@ -1,9 +1,9 @@
 # AI-Driven Pothole Recognition & Vehicle Safety Alert System
-# CLASSIFIER Subsystem - Component: temporal state filter
+# CLASSIFIER Subsystem - Component: CAN bus alert packet
 # Milestone: 2024-05-29
-TELEMETRY_SAMPLE_454 = {
-    'build_id': 454,
+TELEMETRY_SAMPLE_455 = {
+    'build_id': 455,
     'date': '2024-05-29',
-    'component': 'temporal state filter',
+    'component': 'CAN bus alert packet',
     'status': 'OPERATIONAL'
 }
