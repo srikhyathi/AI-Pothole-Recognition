@@ -1,9 +1,9 @@
 # AI-Driven Pothole Recognition & Vehicle Safety Alert System
-# TRACKING Subsystem - Component: GPS HDOP dilution parser
-# Milestone: 2024-06-04
-TELEMETRY_SAMPLE_475 = {
-    'build_id': 475,
-    'date': '2024-06-04',
-    'component': 'GPS HDOP dilution parser',
+# TRACKING Subsystem - Component: braking distance threshold
+# Milestone: 2024-06-05
+TELEMETRY_SAMPLE_476 = {
+    'build_id': 476,
+    'date': '2024-06-05',
+    'component': 'braking distance threshold',
     'status': 'OPERATIONAL'
 }
