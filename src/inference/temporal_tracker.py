@@ -1,9 +1,9 @@
 # AI-Driven Pothole Recognition & Vehicle Safety Alert System
-# TRACKING Subsystem - Component: braking distance threshold
-# Milestone: 2024-06-09
-TELEMETRY_SAMPLE_489 = {
-    'build_id': 489,
-    'date': '2024-06-09',
-    'component': 'braking distance threshold',
+# TRACKING Subsystem - Component: TensorRT calibration cache
+# Milestone: 2024-06-10
+TELEMETRY_SAMPLE_490 = {
+    'build_id': 490,
+    'date': '2024-06-10',
+    'component': 'TensorRT calibration cache',
     'status': 'OPERATIONAL'
 }
