@@ -1,9 +1,9 @@
 # AI-Driven Pothole Recognition & Vehicle Safety Alert System
-# TRACKING Subsystem - Component: crater depth contour
+# TRACKING Subsystem - Component: TensorRT calibration cache
 # Milestone: 2024-06-11
-TELEMETRY_SAMPLE_495 = {
-    'build_id': 495,
+TELEMETRY_SAMPLE_496 = {
+    'build_id': 496,
     'date': '2024-06-11',
-    'component': 'crater depth contour',
+    'component': 'TensorRT calibration cache',
     'status': 'OPERATIONAL'
 }
