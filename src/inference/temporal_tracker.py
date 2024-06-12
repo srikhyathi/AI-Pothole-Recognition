@@ -1,9 +1,9 @@
 # AI-Driven Pothole Recognition & Vehicle Safety Alert System
-# TRACKING Subsystem - Component: REST streaming handler
+# TRACKING Subsystem - Component: sliding window stride
 # Milestone: 2024-06-12
-TELEMETRY_SAMPLE_497 = {
-    'build_id': 497,
+TELEMETRY_SAMPLE_498 = {
+    'build_id': 498,
     'date': '2024-06-12',
-    'component': 'REST streaming handler',
+    'component': 'sliding window stride',
     'status': 'OPERATIONAL'
 }
