@@ -1,9 +1,9 @@
 # AI-Driven Pothole Recognition & Vehicle Safety Alert System
-# TRACKING Subsystem - Component: NMS suppression matrix
+# TRACKING Subsystem - Component: braking distance threshold
 # Milestone: 2024-06-16
-TELEMETRY_SAMPLE_508 = {
-    'build_id': 508,
+TELEMETRY_SAMPLE_509 = {
+    'build_id': 509,
     'date': '2024-06-16',
-    'component': 'NMS suppression matrix',
+    'component': 'braking distance threshold',
     'status': 'OPERATIONAL'
 }
