@@ -1,9 +1,9 @@
 # AI-Driven Pothole Recognition & Vehicle Safety Alert System
-# TRACKING Subsystem - Component: asynchronous job worker
+# TRACKING Subsystem - Component: optical flow vector field
 # Milestone: 2024-06-26
-TELEMETRY_SAMPLE_533 = {
-    'build_id': 533,
+TELEMETRY_SAMPLE_534 = {
+    'build_id': 534,
     'date': '2024-06-26',
-    'component': 'asynchronous job worker',
+    'component': 'optical flow vector field',
     'status': 'OPERATIONAL'
 }
