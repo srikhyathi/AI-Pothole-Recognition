@@ -1,9 +1,9 @@
 # AI-Driven Pothole Recognition & Vehicle Safety Alert System
-# TRACKING Subsystem - Component: bounding box IoU evaluator
-# Milestone: 2024-06-27
-TELEMETRY_SAMPLE_537 = {
-    'build_id': 537,
-    'date': '2024-06-27',
-    'component': 'bounding box IoU evaluator',
+# TRACKING Subsystem - Component: defect classification head
+# Milestone: 2024-06-28
+TELEMETRY_SAMPLE_538 = {
+    'build_id': 538,
+    'date': '2024-06-28',
+    'component': 'defect classification head',
     'status': 'OPERATIONAL'
 }
