@@ -1,9 +1,9 @@
 # AI-Driven Pothole Recognition & Vehicle Safety Alert System
-# TRACKING Subsystem - Component: gradient clipping bounds
-# Milestone: 2024-06-28
-TELEMETRY_SAMPLE_540 = {
-    'build_id': 540,
-    'date': '2024-06-28',
-    'component': 'gradient clipping bounds',
+# TRACKING Subsystem - Component: optical flow vector field
+# Milestone: 2024-06-29
+TELEMETRY_SAMPLE_541 = {
+    'build_id': 541,
+    'date': '2024-06-29',
+    'component': 'optical flow vector field',
     'status': 'OPERATIONAL'
 }
