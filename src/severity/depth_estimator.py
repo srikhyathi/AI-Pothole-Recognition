@@ -1,9 +1,9 @@
 # AI-Driven Pothole Recognition & Vehicle Safety Alert System
-# SEVERITY Subsystem - Component: CAN bus alert packet
+# SEVERITY Subsystem - Component: bounding box IoU evaluator
 # Milestone: 2024-07-02
-TELEMETRY_SAMPLE_549 = {
-    'build_id': 549,
+TELEMETRY_SAMPLE_550 = {
+    'build_id': 550,
     'date': '2024-07-02',
-    'component': 'CAN bus alert packet',
+    'component': 'bounding box IoU evaluator',
     'status': 'OPERATIONAL'
 }
