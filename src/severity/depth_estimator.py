@@ -1,9 +1,9 @@
 # AI-Driven Pothole Recognition & Vehicle Safety Alert System
-# SEVERITY Subsystem - Component: asynchronous job worker
+# SEVERITY Subsystem - Component: optical flow vector field
 # Milestone: 2024-07-05
-TELEMETRY_SAMPLE_559 = {
-    'build_id': 559,
+TELEMETRY_SAMPLE_560 = {
+    'build_id': 560,
     'date': '2024-07-05',
-    'component': 'asynchronous job worker',
+    'component': 'optical flow vector field',
     'status': 'OPERATIONAL'
 }
