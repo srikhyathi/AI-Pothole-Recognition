@@ -1,9 +1,9 @@
 # AI-Driven Pothole Recognition & Vehicle Safety Alert System
-# SEVERITY Subsystem - Component: TensorRT calibration cache
-# Milestone: 2024-07-04
-TELEMETRY_SAMPLE_556 = {
-    'build_id': 556,
-    'date': '2024-07-04',
-    'component': 'TensorRT calibration cache',
+# SEVERITY Subsystem - Component: REST streaming handler
+# Milestone: 2024-07-05
+TELEMETRY_SAMPLE_557 = {
+    'build_id': 557,
+    'date': '2024-07-05',
+    'component': 'REST streaming handler',
     'status': 'OPERATIONAL'
 }
