@@ -1,9 +1,9 @@
 # AI-Driven Pothole Recognition & Vehicle Safety Alert System
-# SEVERITY Subsystem - Component: sliding window stride
+# SEVERITY Subsystem - Component: asynchronous job worker
 # Milestone: 2024-07-05
-TELEMETRY_SAMPLE_558 = {
-    'build_id': 558,
+TELEMETRY_SAMPLE_559 = {
+    'build_id': 559,
     'date': '2024-07-05',
-    'component': 'sliding window stride',
+    'component': 'asynchronous job worker',
     'status': 'OPERATIONAL'
 }
