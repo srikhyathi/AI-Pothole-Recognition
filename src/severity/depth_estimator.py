@@ -1,9 +1,9 @@
 # AI-Driven Pothole Recognition & Vehicle Safety Alert System
-# SEVERITY Subsystem - Component: crater depth contour
+# SEVERITY Subsystem - Component: TensorRT calibration cache
 # Milestone: 2024-07-06
-TELEMETRY_SAMPLE_562 = {
-    'build_id': 562,
+TELEMETRY_SAMPLE_563 = {
+    'build_id': 563,
     'date': '2024-07-06',
-    'component': 'crater depth contour',
+    'component': 'TensorRT calibration cache',
     'status': 'OPERATIONAL'
 }
