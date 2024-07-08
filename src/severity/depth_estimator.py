@@ -1,9 +1,9 @@
 # AI-Driven Pothole Recognition & Vehicle Safety Alert System
-# SEVERITY Subsystem - Component: bilateral filter kernel
-# Milestone: 2024-07-07
-TELEMETRY_SAMPLE_565 = {
-    'build_id': 565,
-    'date': '2024-07-07',
-    'component': 'bilateral filter kernel',
+# SEVERITY Subsystem - Component: micro-disparity stereo map
+# Milestone: 2024-07-08
+TELEMETRY_SAMPLE_566 = {
+    'build_id': 566,
+    'date': '2024-07-08',
+    'component': 'micro-disparity stereo map',
     'status': 'OPERATIONAL'
 }
