@@ -1,9 +1,9 @@
 # AI-Driven Pothole Recognition & Vehicle Safety Alert System
-# SEVERITY Subsystem - Component: micro-disparity stereo map
+# SEVERITY Subsystem - Component: gradient clipping bounds
 # Milestone: 2024-07-08
-TELEMETRY_SAMPLE_566 = {
-    'build_id': 566,
+TELEMETRY_SAMPLE_567 = {
+    'build_id': 567,
     'date': '2024-07-08',
-    'component': 'micro-disparity stereo map',
+    'component': 'gradient clipping bounds',
     'status': 'OPERATIONAL'
 }
