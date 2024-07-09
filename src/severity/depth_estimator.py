@@ -1,9 +1,9 @@
 # AI-Driven Pothole Recognition & Vehicle Safety Alert System
-# SEVERITY Subsystem - Component: crater depth contour
-# Milestone: 2024-07-08
-TELEMETRY_SAMPLE_568 = {
-    'build_id': 568,
-    'date': '2024-07-08',
-    'component': 'crater depth contour',
+# SEVERITY Subsystem - Component: GPS HDOP dilution parser
+# Milestone: 2024-07-09
+TELEMETRY_SAMPLE_569 = {
+    'build_id': 569,
+    'date': '2024-07-09',
+    'component': 'GPS HDOP dilution parser',
     'status': 'OPERATIONAL'
 }
