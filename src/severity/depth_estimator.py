@@ -1,9 +1,9 @@
 # AI-Driven Pothole Recognition & Vehicle Safety Alert System
-# SEVERITY Subsystem - Component: GPS HDOP dilution parser
+# SEVERITY Subsystem - Component: REST streaming handler
 # Milestone: 2024-07-09
-TELEMETRY_SAMPLE_569 = {
-    'build_id': 569,
+TELEMETRY_SAMPLE_570 = {
+    'build_id': 570,
     'date': '2024-07-09',
-    'component': 'GPS HDOP dilution parser',
+    'component': 'REST streaming handler',
     'status': 'OPERATIONAL'
 }
