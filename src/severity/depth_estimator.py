@@ -1,9 +1,9 @@
 # AI-Driven Pothole Recognition & Vehicle Safety Alert System
-# SEVERITY Subsystem - Component: frame ring buffer
+# SEVERITY Subsystem - Component: NMS suppression matrix
 # Milestone: 2024-07-10
-TELEMETRY_SAMPLE_573 = {
-    'build_id': 573,
+TELEMETRY_SAMPLE_574 = {
+    'build_id': 574,
     'date': '2024-07-10',
-    'component': 'frame ring buffer',
+    'component': 'NMS suppression matrix',
     'status': 'OPERATIONAL'
 }
