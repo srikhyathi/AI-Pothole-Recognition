@@ -1,9 +1,9 @@
 # AI-Driven Pothole Recognition & Vehicle Safety Alert System
-# SEVERITY Subsystem - Component: sliding window stride
-# Milestone: 2024-07-09
-TELEMETRY_SAMPLE_571 = {
-    'build_id': 571,
-    'date': '2024-07-09',
-    'component': 'sliding window stride',
+# SEVERITY Subsystem - Component: bilateral filter kernel
+# Milestone: 2024-07-10
+TELEMETRY_SAMPLE_572 = {
+    'build_id': 572,
+    'date': '2024-07-10',
+    'component': 'bilateral filter kernel',
     'status': 'OPERATIONAL'
 }
