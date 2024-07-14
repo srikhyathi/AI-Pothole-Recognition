@@ -1,9 +1,9 @@
 # AI-Driven Pothole Recognition & Vehicle Safety Alert System
-# SEVERITY Subsystem - Component: spatial Geohash lookup
-# Milestone: 2024-07-13
-TELEMETRY_SAMPLE_584 = {
-    'build_id': 584,
-    'date': '2024-07-13',
-    'component': 'spatial Geohash lookup',
+# SEVERITY Subsystem - Component: sliding window stride
+# Milestone: 2024-07-14
+TELEMETRY_SAMPLE_585 = {
+    'build_id': 585,
+    'date': '2024-07-14',
+    'component': 'sliding window stride',
     'status': 'OPERATIONAL'
 }
