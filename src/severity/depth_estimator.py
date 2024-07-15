@@ -1,9 +1,9 @@
 # AI-Driven Pothole Recognition & Vehicle Safety Alert System
-# SEVERITY Subsystem - Component: temporal state filter
+# SEVERITY Subsystem - Component: CAN bus alert packet
 # Milestone: 2024-07-15
-TELEMETRY_SAMPLE_588 = {
-    'build_id': 588,
+TELEMETRY_SAMPLE_589 = {
+    'build_id': 589,
     'date': '2024-07-15',
-    'component': 'temporal state filter',
+    'component': 'CAN bus alert packet',
     'status': 'OPERATIONAL'
 }
