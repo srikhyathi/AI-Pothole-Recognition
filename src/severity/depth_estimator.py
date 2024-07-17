@@ -1,9 +1,9 @@
 # AI-Driven Pothole Recognition & Vehicle Safety Alert System
-# SEVERITY Subsystem - Component: spatial Geohash lookup
+# SEVERITY Subsystem - Component: bilateral filter kernel
 # Milestone: 2024-07-17
-TELEMETRY_SAMPLE_597 = {
-    'build_id': 597,
+TELEMETRY_SAMPLE_598 = {
+    'build_id': 598,
     'date': '2024-07-17',
-    'component': 'spatial Geohash lookup',
+    'component': 'bilateral filter kernel',
     'status': 'OPERATIONAL'
 }
