@@ -1,9 +1,9 @@
 # AI-Driven Pothole Recognition & Vehicle Safety Alert System
-# SEVERITY Subsystem - Component: acoustic pulse generator
+# SEVERITY Subsystem - Component: asphalt texture normalizer
 # Milestone: 2024-07-18
-TELEMETRY_SAMPLE_599 = {
-    'build_id': 599,
+TELEMETRY_SAMPLE_600 = {
+    'build_id': 600,
     'date': '2024-07-18',
-    'component': 'acoustic pulse generator',
+    'component': 'asphalt texture normalizer',
     'status': 'OPERATIONAL'
 }
