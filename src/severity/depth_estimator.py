@@ -1,9 +1,9 @@
 # AI-Driven Pothole Recognition & Vehicle Safety Alert System
-# SEVERITY Subsystem - Component: bilateral filter kernel
-# Milestone: 2024-07-17
-TELEMETRY_SAMPLE_598 = {
-    'build_id': 598,
-    'date': '2024-07-17',
-    'component': 'bilateral filter kernel',
+# SEVERITY Subsystem - Component: acoustic pulse generator
+# Milestone: 2024-07-18
+TELEMETRY_SAMPLE_599 = {
+    'build_id': 599,
+    'date': '2024-07-18',
+    'component': 'acoustic pulse generator',
     'status': 'OPERATIONAL'
 }
