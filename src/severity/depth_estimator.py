@@ -1,9 +1,9 @@
 # AI-Driven Pothole Recognition & Vehicle Safety Alert System
-# SEVERITY Subsystem - Component: temporal state filter
-# Milestone: 2024-07-19
-TELEMETRY_SAMPLE_607 = {
-    'build_id': 607,
-    'date': '2024-07-19',
-    'component': 'temporal state filter',
+# SEVERITY Subsystem - Component: NMS suppression matrix
+# Milestone: 2024-07-20
+TELEMETRY_SAMPLE_608 = {
+    'build_id': 608,
+    'date': '2024-07-20',
+    'component': 'NMS suppression matrix',
     'status': 'OPERATIONAL'
 }
