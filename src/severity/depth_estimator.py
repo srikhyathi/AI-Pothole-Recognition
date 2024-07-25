@@ -1,9 +1,9 @@
 # AI-Driven Pothole Recognition & Vehicle Safety Alert System
-# SEVERITY Subsystem - Component: optical flow vector field
+# SEVERITY Subsystem - Component: GPS HDOP dilution parser
 # Milestone: 2024-07-25
-TELEMETRY_SAMPLE_621 = {
-    'build_id': 621,
+TELEMETRY_SAMPLE_622 = {
+    'build_id': 622,
     'date': '2024-07-25',
-    'component': 'optical flow vector field',
+    'component': 'GPS HDOP dilution parser',
     'status': 'OPERATIONAL'
 }
