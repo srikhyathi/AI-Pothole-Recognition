@@ -1,9 +1,9 @@
 # AI-Driven Pothole Recognition & Vehicle Safety Alert System
-# GPS Subsystem - Component: optical flow vector field
-# Milestone: 2024-08-11
-TELEMETRY_SAMPLE_661 = {
-    'build_id': 661,
-    'date': '2024-08-11',
-    'component': 'optical flow vector field',
+# GPS Subsystem - Component: crater depth contour
+# Milestone: 2024-08-12
+TELEMETRY_SAMPLE_662 = {
+    'build_id': 662,
+    'date': '2024-08-12',
+    'component': 'crater depth contour',
     'status': 'OPERATIONAL'
 }
