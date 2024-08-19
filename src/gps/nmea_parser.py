@@ -1,9 +1,9 @@
 # AI-Driven Pothole Recognition & Vehicle Safety Alert System
-# GPS Subsystem - Component: CAN bus alert packet
+# GPS Subsystem - Component: bounding box IoU evaluator
 # Milestone: 2024-08-19
-TELEMETRY_SAMPLE_689 = {
-    'build_id': 689,
+TELEMETRY_SAMPLE_690 = {
+    'build_id': 690,
     'date': '2024-08-19',
-    'component': 'CAN bus alert packet',
+    'component': 'bounding box IoU evaluator',
     'status': 'OPERATIONAL'
 }
