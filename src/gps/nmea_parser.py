@@ -1,9 +1,9 @@
 # AI-Driven Pothole Recognition & Vehicle Safety Alert System
-# GPS Subsystem - Component: defect classification head
+# GPS Subsystem - Component: micro-disparity stereo map
 # Milestone: 2024-08-22
-TELEMETRY_SAMPLE_698 = {
-    'build_id': 698,
+TELEMETRY_SAMPLE_699 = {
+    'build_id': 699,
     'date': '2024-08-22',
-    'component': 'defect classification head',
+    'component': 'micro-disparity stereo map',
     'status': 'OPERATIONAL'
 }
