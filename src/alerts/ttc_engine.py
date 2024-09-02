@@ -1,9 +1,9 @@
 # AI-Driven Pothole Recognition & Vehicle Safety Alert System
-# ALERTS Subsystem - Component: braking distance threshold
+# ALERTS Subsystem - Component: spatial Geohash lookup
 # Milestone: 2024-09-02
-TELEMETRY_SAMPLE_736 = {
-    'build_id': 736,
+TELEMETRY_SAMPLE_737 = {
+    'build_id': 737,
     'date': '2024-09-02',
-    'component': 'braking distance threshold',
+    'component': 'spatial Geohash lookup',
     'status': 'OPERATIONAL'
 }
