@@ -1,9 +1,9 @@
 # AI-Driven Pothole Recognition & Vehicle Safety Alert System
-# ALERTS Subsystem - Component: defect classification head
+# ALERTS Subsystem - Component: micro-disparity stereo map
 # Milestone: 2024-09-09
-TELEMETRY_SAMPLE_758 = {
-    'build_id': 758,
+TELEMETRY_SAMPLE_759 = {
+    'build_id': 759,
     'date': '2024-09-09',
-    'component': 'defect classification head',
+    'component': 'micro-disparity stereo map',
     'status': 'OPERATIONAL'
 }
