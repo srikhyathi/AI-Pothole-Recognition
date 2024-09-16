@@ -1,9 +1,9 @@
 # AI-Driven Pothole Recognition & Vehicle Safety Alert System
-# ALERTS Subsystem - Component: temporal state filter
-# Milestone: 2024-09-15
-TELEMETRY_SAMPLE_775 = {
-    'build_id': 775,
-    'date': '2024-09-15',
-    'component': 'temporal state filter',
+# ALERTS Subsystem - Component: braking distance threshold
+# Milestone: 2024-09-16
+TELEMETRY_SAMPLE_776 = {
+    'build_id': 776,
+    'date': '2024-09-16',
+    'component': 'braking distance threshold',
     'status': 'OPERATIONAL'
 }
