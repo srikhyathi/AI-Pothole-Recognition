@@ -1,9 +1,9 @@
 # AI-Driven Pothole Recognition & Vehicle Safety Alert System
-# ALERTS Subsystem - Component: bounding box IoU evaluator
+# ALERTS Subsystem - Component: acoustic pulse generator
 # Milestone: 2024-09-18
-TELEMETRY_SAMPLE_784 = {
-    'build_id': 784,
+TELEMETRY_SAMPLE_785 = {
+    'build_id': 785,
     'date': '2024-09-18',
-    'component': 'bounding box IoU evaluator',
+    'component': 'acoustic pulse generator',
     'status': 'OPERATIONAL'
 }
