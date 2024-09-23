@@ -1,9 +1,9 @@
 # AI-Driven Pothole Recognition & Vehicle Safety Alert System
-# ALERTS Subsystem - Component: crater depth contour
-# Milestone: 2024-09-22
-TELEMETRY_SAMPLE_795 = {
-    'build_id': 795,
-    'date': '2024-09-22',
-    'component': 'crater depth contour',
+# ALERTS Subsystem - Component: braking distance threshold
+# Milestone: 2024-09-23
+TELEMETRY_SAMPLE_796 = {
+    'build_id': 796,
+    'date': '2024-09-23',
+    'component': 'braking distance threshold',
     'status': 'OPERATIONAL'
 }
