@@ -1,9 +1,9 @@
 # AI-Driven Pothole Recognition & Vehicle Safety Alert System
-# EDGE Subsystem - Component: CAN bus alert packet
+# EDGE Subsystem - Component: bounding box IoU evaluator
 # Milestone: 2024-10-03
-TELEMETRY_SAMPLE_829 = {
-    'build_id': 829,
+TELEMETRY_SAMPLE_830 = {
+    'build_id': 830,
     'date': '2024-10-03',
-    'component': 'CAN bus alert packet',
+    'component': 'bounding box IoU evaluator',
     'status': 'OPERATIONAL'
 }
