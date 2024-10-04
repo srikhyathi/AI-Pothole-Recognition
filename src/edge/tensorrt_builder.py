@@ -1,9 +1,9 @@
 # AI-Driven Pothole Recognition & Vehicle Safety Alert System
-# EDGE Subsystem - Component: bounding box IoU evaluator
+# EDGE Subsystem - Component: acoustic pulse generator
 # Milestone: 2024-10-04
-TELEMETRY_SAMPLE_831 = {
-    'build_id': 831,
+TELEMETRY_SAMPLE_832 = {
+    'build_id': 832,
     'date': '2024-10-04',
-    'component': 'bounding box IoU evaluator',
+    'component': 'acoustic pulse generator',
     'status': 'OPERATIONAL'
 }
