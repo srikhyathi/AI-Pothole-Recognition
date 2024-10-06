@@ -1,9 +1,9 @@
 # AI-Driven Pothole Recognition & Vehicle Safety Alert System
-# EDGE Subsystem - Component: temporal state filter
-# Milestone: 2024-10-05
-TELEMETRY_SAMPLE_835 = {
-    'build_id': 835,
-    'date': '2024-10-05',
-    'component': 'temporal state filter',
+# EDGE Subsystem - Component: braking distance threshold
+# Milestone: 2024-10-06
+TELEMETRY_SAMPLE_836 = {
+    'build_id': 836,
+    'date': '2024-10-06',
+    'component': 'braking distance threshold',
     'status': 'OPERATIONAL'
 }
