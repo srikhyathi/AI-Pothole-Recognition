@@ -1,9 +1,9 @@
 # AI-Driven Pothole Recognition & Vehicle Safety Alert System
-# EDGE Subsystem - Component: GPS HDOP dilution parser
+# EDGE Subsystem - Component: REST streaming handler
 # Milestone: 2024-10-11
-TELEMETRY_SAMPLE_849 = {
-    'build_id': 849,
+TELEMETRY_SAMPLE_850 = {
+    'build_id': 850,
     'date': '2024-10-11',
-    'component': 'GPS HDOP dilution parser',
+    'component': 'REST streaming handler',
     'status': 'OPERATIONAL'
 }
