@@ -1,9 +1,9 @@
 # AI-Driven Pothole Recognition & Vehicle Safety Alert System
-# EDGE Subsystem - Component: sliding window stride
+# EDGE Subsystem - Component: asynchronous job worker
 # Milestone: 2024-10-11
-TELEMETRY_SAMPLE_851 = {
-    'build_id': 851,
+TELEMETRY_SAMPLE_852 = {
+    'build_id': 852,
     'date': '2024-10-11',
-    'component': 'sliding window stride',
+    'component': 'asynchronous job worker',
     'status': 'OPERATIONAL'
 }
