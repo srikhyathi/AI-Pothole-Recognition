@@ -1,9 +1,9 @@
 # AI-Driven Pothole Recognition & Vehicle Safety Alert System
-# EDGE Subsystem - Component: defect classification head
+# EDGE Subsystem - Component: micro-disparity stereo map
 # Milestone: 2024-10-17
-TELEMETRY_SAMPLE_871 = {
-    'build_id': 871,
+TELEMETRY_SAMPLE_872 = {
+    'build_id': 872,
     'date': '2024-10-17',
-    'component': 'defect classification head',
+    'component': 'micro-disparity stereo map',
     'status': 'OPERATIONAL'
 }
