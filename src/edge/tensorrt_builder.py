@@ -1,9 +1,9 @@
 # AI-Driven Pothole Recognition & Vehicle Safety Alert System
-# EDGE Subsystem - Component: defect classification head
-# Milestone: 2024-10-21
-TELEMETRY_SAMPLE_884 = {
-    'build_id': 884,
-    'date': '2024-10-21',
-    'component': 'defect classification head',
+# EDGE Subsystem - Component: sliding window stride
+# Milestone: 2024-10-22
+TELEMETRY_SAMPLE_885 = {
+    'build_id': 885,
+    'date': '2024-10-22',
+    'component': 'sliding window stride',
     'status': 'OPERATIONAL'
 }
