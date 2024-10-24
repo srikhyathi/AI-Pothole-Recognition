@@ -1,9 +1,9 @@
 # AI-Driven Pothole Recognition & Vehicle Safety Alert System
-# EDGE Subsystem - Component: spatial Geohash lookup
-# Milestone: 2024-10-23
-TELEMETRY_SAMPLE_890 = {
-    'build_id': 890,
-    'date': '2024-10-23',
-    'component': 'spatial Geohash lookup',
+# EDGE Subsystem - Component: bounding box IoU evaluator
+# Milestone: 2024-10-24
+TELEMETRY_SAMPLE_891 = {
+    'build_id': 891,
+    'date': '2024-10-24',
+    'component': 'bounding box IoU evaluator',
     'status': 'OPERATIONAL'
 }
