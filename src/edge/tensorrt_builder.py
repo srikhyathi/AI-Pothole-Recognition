@@ -1,9 +1,9 @@
 # AI-Driven Pothole Recognition & Vehicle Safety Alert System
-# EDGE Subsystem - Component: asynchronous job worker
+# EDGE Subsystem - Component: optical flow vector field
 # Milestone: 2024-10-25
-TELEMETRY_SAMPLE_893 = {
-    'build_id': 893,
+TELEMETRY_SAMPLE_894 = {
+    'build_id': 894,
     'date': '2024-10-25',
-    'component': 'asynchronous job worker',
+    'component': 'optical flow vector field',
     'status': 'OPERATIONAL'
 }
