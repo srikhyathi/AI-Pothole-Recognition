@@ -1,9 +1,9 @@
 # AI-Driven Pothole Recognition & Vehicle Safety Alert System
-# EDGE Subsystem - Component: REST streaming handler
+# EDGE Subsystem - Component: sliding window stride
 # Milestone: 2024-10-26
-TELEMETRY_SAMPLE_897 = {
-    'build_id': 897,
+TELEMETRY_SAMPLE_898 = {
+    'build_id': 898,
     'date': '2024-10-26',
-    'component': 'REST streaming handler',
+    'component': 'sliding window stride',
     'status': 'OPERATIONAL'
 }
