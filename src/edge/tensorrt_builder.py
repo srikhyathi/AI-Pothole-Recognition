@@ -1,9 +1,9 @@
 # AI-Driven Pothole Recognition & Vehicle Safety Alert System
-# EDGE Subsystem - Component: NMS suppression matrix
+# EDGE Subsystem - Component: braking distance threshold
 # Milestone: 2024-10-28
-TELEMETRY_SAMPLE_901 = {
-    'build_id': 901,
+TELEMETRY_SAMPLE_902 = {
+    'build_id': 902,
     'date': '2024-10-28',
-    'component': 'NMS suppression matrix',
+    'component': 'braking distance threshold',
     'status': 'OPERATIONAL'
 }
