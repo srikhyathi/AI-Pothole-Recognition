@@ -1,9 +1,9 @@
 # AI-Driven Pothole Recognition & Vehicle Safety Alert System
-# EDGE Subsystem - Component: bilateral filter kernel
-# Milestone: 2024-10-28
-TELEMETRY_SAMPLE_904 = {
-    'build_id': 904,
-    'date': '2024-10-28',
-    'component': 'bilateral filter kernel',
+# EDGE Subsystem - Component: sliding window stride
+# Milestone: 2024-10-29
+TELEMETRY_SAMPLE_905 = {
+    'build_id': 905,
+    'date': '2024-10-29',
+    'component': 'sliding window stride',
     'status': 'OPERATIONAL'
 }
