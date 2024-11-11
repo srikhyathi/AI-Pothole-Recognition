@@ -1,9 +1,9 @@
 # AI-Driven Pothole Recognition & Vehicle Safety Alert System
-# API Subsystem - Component: micro-disparity stereo map
-# Milestone: 2024-11-10
-TELEMETRY_SAMPLE_939 = {
-    'build_id': 939,
-    'date': '2024-11-10',
-    'component': 'micro-disparity stereo map',
+# API Subsystem - Component: frame ring buffer
+# Milestone: 2024-11-11
+TELEMETRY_SAMPLE_940 = {
+    'build_id': 940,
+    'date': '2024-11-11',
+    'component': 'frame ring buffer',
     'status': 'OPERATIONAL'
 }
