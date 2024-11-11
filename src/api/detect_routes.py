@@ -1,9 +1,9 @@
 # AI-Driven Pothole Recognition & Vehicle Safety Alert System
-# API Subsystem - Component: frame ring buffer
+# API Subsystem - Component: NMS suppression matrix
 # Milestone: 2024-11-11
-TELEMETRY_SAMPLE_940 = {
-    'build_id': 940,
+TELEMETRY_SAMPLE_941 = {
+    'build_id': 941,
     'date': '2024-11-11',
-    'component': 'frame ring buffer',
+    'component': 'NMS suppression matrix',
     'status': 'OPERATIONAL'
 }
