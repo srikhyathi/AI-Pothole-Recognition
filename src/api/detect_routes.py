@@ -1,9 +1,9 @@
 # AI-Driven Pothole Recognition & Vehicle Safety Alert System
-# API Subsystem - Component: TensorRT calibration cache
+# API Subsystem - Component: defect classification head
 # Milestone: 2024-11-12
-TELEMETRY_SAMPLE_943 = {
-    'build_id': 943,
+TELEMETRY_SAMPLE_944 = {
+    'build_id': 944,
     'date': '2024-11-12',
-    'component': 'TensorRT calibration cache',
+    'component': 'defect classification head',
     'status': 'OPERATIONAL'
 }
