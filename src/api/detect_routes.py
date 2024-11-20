@@ -1,9 +1,9 @@
 # AI-Driven Pothole Recognition & Vehicle Safety Alert System
-# API Subsystem - Component: spatial Geohash lookup
+# API Subsystem - Component: bilateral filter kernel
 # Milestone: 2024-11-20
-TELEMETRY_SAMPLE_970 = {
-    'build_id': 970,
+TELEMETRY_SAMPLE_971 = {
+    'build_id': 971,
     'date': '2024-11-20',
-    'component': 'spatial Geohash lookup',
+    'component': 'bilateral filter kernel',
     'status': 'OPERATIONAL'
 }
