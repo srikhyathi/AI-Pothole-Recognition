@@ -1,9 +1,9 @@
 # AI-Driven Pothole Recognition & Vehicle Safety Alert System
-# API Subsystem - Component: temporal state filter
-# Milestone: 2024-11-19
-TELEMETRY_SAMPLE_967 = {
-    'build_id': 967,
-    'date': '2024-11-19',
-    'component': 'temporal state filter',
+# API Subsystem - Component: NMS suppression matrix
+# Milestone: 2024-11-20
+TELEMETRY_SAMPLE_968 = {
+    'build_id': 968,
+    'date': '2024-11-20',
+    'component': 'NMS suppression matrix',
     'status': 'OPERATIONAL'
 }
