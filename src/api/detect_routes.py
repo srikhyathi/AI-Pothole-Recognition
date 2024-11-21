@@ -1,9 +1,9 @@
 # AI-Driven Pothole Recognition & Vehicle Safety Alert System
-# API Subsystem - Component: bilateral filter kernel
+# API Subsystem - Component: frame ring buffer
 # Milestone: 2024-11-21
-TELEMETRY_SAMPLE_972 = {
-    'build_id': 972,
+TELEMETRY_SAMPLE_973 = {
+    'build_id': 973,
     'date': '2024-11-21',
-    'component': 'bilateral filter kernel',
+    'component': 'frame ring buffer',
     'status': 'OPERATIONAL'
 }
