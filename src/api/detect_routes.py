@@ -1,9 +1,9 @@
 # AI-Driven Pothole Recognition & Vehicle Safety Alert System
-# API Subsystem - Component: optical flow vector field
-# Milestone: 2024-11-24
-TELEMETRY_SAMPLE_981 = {
-    'build_id': 981,
-    'date': '2024-11-24',
-    'component': 'optical flow vector field',
+# API Subsystem - Component: crater depth contour
+# Milestone: 2024-11-25
+TELEMETRY_SAMPLE_982 = {
+    'build_id': 982,
+    'date': '2024-11-25',
+    'component': 'crater depth contour',
     'status': 'OPERATIONAL'
 }
