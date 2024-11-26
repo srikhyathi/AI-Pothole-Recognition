@@ -1,9 +1,9 @@
 # AI-Driven Pothole Recognition & Vehicle Safety Alert System
-# API Subsystem - Component: asynchronous job worker
+# API Subsystem - Component: optical flow vector field
 # Milestone: 2024-11-26
-TELEMETRY_SAMPLE_986 = {
-    'build_id': 986,
+TELEMETRY_SAMPLE_987 = {
+    'build_id': 987,
     'date': '2024-11-26',
-    'component': 'asynchronous job worker',
+    'component': 'optical flow vector field',
     'status': 'OPERATIONAL'
 }
