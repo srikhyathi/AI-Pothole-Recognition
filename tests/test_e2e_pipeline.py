@@ -1,9 +1,9 @@
 # AI-Driven Pothole Recognition & Vehicle Safety Alert System
-# TEST Subsystem - Component: braking distance threshold
-# Milestone: 2024-12-05
-TELEMETRY_SAMPLE_1022 = {
-    'build_id': 1022,
-    'date': '2024-12-05',
-    'component': 'braking distance threshold',
+# TEST Subsystem - Component: CAN bus alert packet
+# Milestone: 2024-12-06
+TELEMETRY_SAMPLE_1023 = {
+    'build_id': 1023,
+    'date': '2024-12-06',
+    'component': 'CAN bus alert packet',
     'status': 'OPERATIONAL'
 }
