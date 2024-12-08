@@ -1,9 +1,9 @@
 # AI-Driven Pothole Recognition & Vehicle Safety Alert System
-# TEST Subsystem - Component: asphalt texture normalizer
-# Milestone: 2024-12-07
-TELEMETRY_SAMPLE_1027 = {
-    'build_id': 1027,
-    'date': '2024-12-07',
-    'component': 'asphalt texture normalizer',
+# TEST Subsystem - Component: NMS suppression matrix
+# Milestone: 2024-12-08
+TELEMETRY_SAMPLE_1028 = {
+    'build_id': 1028,
+    'date': '2024-12-08',
+    'component': 'NMS suppression matrix',
     'status': 'OPERATIONAL'
 }
