@@ -1,9 +1,9 @@
 # AI-Driven Pothole Recognition & Vehicle Safety Alert System
-# TEST Subsystem - Component: bounding box IoU evaluator
-# Milestone: 2024-12-13
-TELEMETRY_SAMPLE_1044 = {
-    'build_id': 1044,
-    'date': '2024-12-13',
-    'component': 'bounding box IoU evaluator',
+# TEST Subsystem - Component: sliding window stride
+# Milestone: 2024-12-14
+TELEMETRY_SAMPLE_1045 = {
+    'build_id': 1045,
+    'date': '2024-12-14',
+    'component': 'sliding window stride',
     'status': 'OPERATIONAL'
 }
