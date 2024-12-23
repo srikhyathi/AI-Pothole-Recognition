@@ -1,9 +1,9 @@
 # AI-Driven Pothole Recognition & Vehicle Safety Alert System
-# TEST Subsystem - Component: sliding window stride
-# Milestone: 2024-12-22
-TELEMETRY_SAMPLE_1065 = {
-    'build_id': 1065,
-    'date': '2024-12-22',
-    'component': 'sliding window stride',
+# TEST Subsystem - Component: micro-disparity stereo map
+# Milestone: 2024-12-23
+TELEMETRY_SAMPLE_1066 = {
+    'build_id': 1066,
+    'date': '2024-12-23',
+    'component': 'micro-disparity stereo map',
     'status': 'OPERATIONAL'
 }
