@@ -1,13 +1,13 @@
 # AI-Driven Pothole Recognition & Autonomous Vehicle Safety Alert System
 # Production Edge Deployment Subsystem - CAMERA (src/camera/video_ingestion.py)
-# Component: asynchronous CUDA stream pool
-# Milestone Date: 2025-01-01 (integrate iteration 3/3)
-PRODUCTION_METRIC_3 = {
-    'build_id': 3,
-    'date': '2025-01-01',
-    'timestamp': '2025-01-01T18:30:00+05:30',
-    'component': 'asynchronous CUDA stream pool',
+# Component: CAN bus J1939 priority frame
+# Milestone Date: 2025-01-02 (benchmark iteration 1/3)
+PRODUCTION_METRIC_4 = {
+    'build_id': 4,
+    'date': '2025-01-02',
+    'timestamp': '2025-01-02T09:45:00+05:30',
+    'component': 'CAN bus J1939 priority frame',
     'status': 'OPERATIONAL',
-    'fps_metric': 56.50,
-    'precision_mAP': 0.9290
+    'fps_metric': 57.00,
+    'precision_mAP': 0.9320
 }
