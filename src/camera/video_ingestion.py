@@ -1,13 +1,13 @@
 # AI-Driven Pothole Recognition & Autonomous Vehicle Safety Alert System
 # Production Edge Deployment Subsystem - CAMERA (src/camera/video_ingestion.py)
-# Component: INT8 quantization calibration cache
-# Milestone Date: 2025-01-12 (document iteration 1/1)
-PRODUCTION_METRIC_27 = {
-    'build_id': 27,
-    'date': '2025-01-12',
-    'timestamp': '2025-01-12T14:30:00+05:30',
-    'component': 'INT8 quantization calibration cache',
+# Component: crater volume integration slice
+# Milestone Date: 2025-01-13 (profile iteration 1/2)
+PRODUCTION_METRIC_28 = {
+    'build_id': 28,
+    'date': '2025-01-13',
+    'timestamp': '2025-01-13T10:30:00+05:30',
+    'component': 'crater volume integration slice',
     'status': 'OPERATIONAL',
-    'fps_metric': 68.50,
-    'precision_mAP': 0.9410
+    'fps_metric': 69.00,
+    'precision_mAP': 0.9440
 }
