@@ -1,13 +1,13 @@
 # AI-Driven Pothole Recognition & Autonomous Vehicle Safety Alert System
 # Production Edge Deployment Subsystem - CAMERA (src/camera/video_ingestion.py)
-# Component: crater contour skeletonizer
-# Milestone Date: 2025-01-13 (implement iteration 2/2)
-PRODUCTION_METRIC_29 = {
-    'build_id': 29,
-    'date': '2025-01-13',
-    'timestamp': '2025-01-13T16:45:00+05:30',
-    'component': 'crater contour skeletonizer',
+# Component: FastAPI WebSocket telemetry broker
+# Milestone Date: 2025-01-14 (implement iteration 1/2)
+PRODUCTION_METRIC_30 = {
+    'build_id': 30,
+    'date': '2025-01-14',
+    'timestamp': '2025-01-14T10:30:00+05:30',
+    'component': 'FastAPI WebSocket telemetry broker',
     'status': 'OPERATIONAL',
-    'fps_metric': 69.50,
-    'precision_mAP': 0.9470
+    'fps_metric': 55.00,
+    'precision_mAP': 0.9500
 }
