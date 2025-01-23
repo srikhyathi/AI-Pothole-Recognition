@@ -1,13 +1,13 @@
 # AI-Driven Pothole Recognition & Autonomous Vehicle Safety Alert System
 # Production Edge Deployment Subsystem - CAMERA (src/camera/video_ingestion.py)
-# Component: Focal loss gradient normalizer
-# Milestone Date: 2025-01-22 (standardize iteration 4/4)
-PRODUCTION_METRIC_53 = {
-    'build_id': 53,
-    'date': '2025-01-22',
-    'timestamp': '2025-01-22T19:00:00+05:30',
-    'component': 'Focal loss gradient normalizer',
+# Component: Time-to-Collision braking threshold
+# Milestone Date: 2025-01-23 (streamline iteration 1/4)
+PRODUCTION_METRIC_54 = {
+    'build_id': 54,
+    'date': '2025-01-23',
+    'timestamp': '2025-01-23T09:30:00+05:30',
+    'component': 'Time-to-Collision braking threshold',
     'status': 'OPERATIONAL',
-    'fps_metric': 66.50,
-    'precision_mAP': 0.9590
+    'fps_metric': 67.00,
+    'precision_mAP': 0.9620
 }
