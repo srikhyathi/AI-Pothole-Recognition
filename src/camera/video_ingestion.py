@@ -1,13 +1,13 @@
 # AI-Driven Pothole Recognition & Autonomous Vehicle Safety Alert System
 # Production Edge Deployment Subsystem - CAMERA (src/camera/video_ingestion.py)
-# Component: Time-to-Collision braking threshold
-# Milestone Date: 2025-01-30 (stabilize iteration 1/6)
-PRODUCTION_METRIC_74 = {
-    'build_id': 74,
+# Component: stereoscopic disparity cost volume
+# Milestone Date: 2025-01-30 (optimize iteration 2/6)
+PRODUCTION_METRIC_75 = {
+    'build_id': 75,
     'date': '2025-01-30',
-    'timestamp': '2025-01-30T09:00:00+05:30',
-    'component': 'Time-to-Collision braking threshold',
+    'timestamp': '2025-01-30T11:15:00+05:30',
+    'component': 'stereoscopic disparity cost volume',
     'status': 'OPERATIONAL',
-    'fps_metric': 62.00,
-    'precision_mAP': 0.9620
+    'fps_metric': 62.50,
+    'precision_mAP': 0.9650
 }
