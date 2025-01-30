@@ -1,13 +1,13 @@
 # AI-Driven Pothole Recognition & Autonomous Vehicle Safety Alert System
 # Production Edge Deployment Subsystem - CAMERA (src/camera/video_ingestion.py)
-# Component: crater volume integration slice
-# Milestone Date: 2025-01-29 (calibrate iteration 6/6)
-PRODUCTION_METRIC_73 = {
-    'build_id': 73,
-    'date': '2025-01-29',
-    'timestamp': '2025-01-29T20:15:00+05:30',
-    'component': 'crater volume integration slice',
+# Component: Time-to-Collision braking threshold
+# Milestone Date: 2025-01-30 (stabilize iteration 1/6)
+PRODUCTION_METRIC_74 = {
+    'build_id': 74,
+    'date': '2025-01-30',
+    'timestamp': '2025-01-30T09:00:00+05:30',
+    'component': 'Time-to-Collision braking threshold',
     'status': 'OPERATIONAL',
-    'fps_metric': 61.50,
-    'precision_mAP': 0.9590
+    'fps_metric': 62.00,
+    'precision_mAP': 0.9620
 }
