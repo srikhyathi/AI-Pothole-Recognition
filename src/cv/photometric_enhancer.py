@@ -1,13 +1,13 @@
 # AI-Driven Pothole Recognition & Autonomous Vehicle Safety Alert System
 # Production Edge Deployment Subsystem - ENHANCER (src/cv/photometric_enhancer.py)
-# Component: adaptive CLAHE contrast limiter
-# Milestone Date: 2025-02-01 (configure iteration 1/1)
-PRODUCTION_METRIC_83 = {
-    'build_id': 83,
-    'date': '2025-02-01',
-    'timestamp': '2025-02-01T14:30:00+05:30',
-    'component': 'adaptive CLAHE contrast limiter',
+# Component: CAN bus J1939 priority frame
+# Milestone Date: 2025-02-02 (streamline iteration 1/1)
+PRODUCTION_METRIC_84 = {
+    'build_id': 84,
+    'date': '2025-02-02',
+    'timestamp': '2025-02-02T14:30:00+05:30',
+    'component': 'CAN bus J1939 priority frame',
     'status': 'OPERATIONAL',
-    'fps_metric': 66.50,
-    'precision_mAP': 0.9290
+    'fps_metric': 67.00,
+    'precision_mAP': 0.9320
 }
