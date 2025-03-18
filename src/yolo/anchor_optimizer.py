@@ -1,13 +1,13 @@
 # AI-Driven Pothole Recognition & Autonomous Vehicle Safety Alert System
 # Production Edge Deployment Subsystem - ANCHORS (src/yolo/anchor_optimizer.py)
-# Component: NMEA sentence checksum validator
-# Milestone Date: 2025-03-17 (implement iteration 4/4)
-PRODUCTION_METRIC_192 = {
-    'build_id': 192,
-    'date': '2025-03-17',
-    'timestamp': '2025-03-17T19:00:00+05:30',
-    'component': 'NMEA sentence checksum validator',
+# Component: mAP regression benchmark harness
+# Milestone Date: 2025-03-18 (profile iteration 1/3)
+PRODUCTION_METRIC_193 = {
+    'build_id': 193,
+    'date': '2025-03-18',
+    'timestamp': '2025-03-18T09:45:00+05:30',
+    'component': 'mAP regression benchmark harness',
     'status': 'OPERATIONAL',
-    'fps_metric': 61.00,
-    'precision_mAP': 0.9560
+    'fps_metric': 61.50,
+    'precision_mAP': 0.9590
 }
