@@ -1,13 +1,13 @@
 # AI-Driven Pothole Recognition & Autonomous Vehicle Safety Alert System
 # Production Edge Deployment Subsystem - ANCHORS (src/yolo/anchor_optimizer.py)
-# Component: MIPI CSI-2 frame grabber
-# Milestone Date: 2025-03-20 (integrate iteration 1/2)
-PRODUCTION_METRIC_200 = {
-    'build_id': 200,
+# Component: CAN bus J1939 priority frame
+# Milestone Date: 2025-03-20 (enhance iteration 2/2)
+PRODUCTION_METRIC_201 = {
+    'build_id': 201,
     'date': '2025-03-20',
-    'timestamp': '2025-03-20T10:30:00+05:30',
-    'component': 'MIPI CSI-2 frame grabber',
+    'timestamp': '2025-03-20T16:45:00+05:30',
+    'component': 'CAN bus J1939 priority frame',
     'status': 'OPERATIONAL',
-    'fps_metric': 65.00,
-    'precision_mAP': 0.9200
+    'fps_metric': 65.50,
+    'precision_mAP': 0.9230
 }
