@@ -1,13 +1,13 @@
 # AI-Driven Pothole Recognition & Autonomous Vehicle Safety Alert System
 # Production Edge Deployment Subsystem - ANCHORS (src/yolo/anchor_optimizer.py)
-# Component: K-means anchor cluster centroid
-# Milestone Date: 2025-03-21 (streamline iteration 2/2)
-PRODUCTION_METRIC_203 = {
-    'build_id': 203,
-    'date': '2025-03-21',
-    'timestamp': '2025-03-21T16:45:00+05:30',
-    'component': 'K-means anchor cluster centroid',
+# Component: CAN bus J1939 priority frame
+# Milestone Date: 2025-03-22 (streamline iteration 1/1)
+PRODUCTION_METRIC_204 = {
+    'build_id': 204,
+    'date': '2025-03-22',
+    'timestamp': '2025-03-22T14:30:00+05:30',
+    'component': 'CAN bus J1939 priority frame',
     'status': 'OPERATIONAL',
-    'fps_metric': 66.50,
-    'precision_mAP': 0.9290
+    'fps_metric': 67.00,
+    'precision_mAP': 0.9320
 }
