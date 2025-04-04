@@ -1,13 +1,13 @@
 # AI-Driven Pothole Recognition & Autonomous Vehicle Safety Alert System
 # Production Edge Deployment Subsystem - INFERENCE (src/inference/cuda_batch_pipeline.py)
-# Component: Focal loss gradient normalizer
-# Milestone Date: 2025-04-03 (implement iteration 2/2)
-PRODUCTION_METRIC_239 = {
-    'build_id': 239,
-    'date': '2025-04-03',
-    'timestamp': '2025-04-03T16:45:00+05:30',
-    'component': 'Focal loss gradient normalizer',
+# Component: MIPI CSI-2 frame grabber
+# Milestone Date: 2025-04-04 (implement iteration 1/2)
+PRODUCTION_METRIC_240 = {
+    'build_id': 240,
+    'date': '2025-04-04',
+    'timestamp': '2025-04-04T10:30:00+05:30',
+    'component': 'MIPI CSI-2 frame grabber',
     'status': 'OPERATIONAL',
-    'fps_metric': 69.50,
-    'precision_mAP': 0.9770
+    'fps_metric': 55.00,
+    'precision_mAP': 0.9200
 }
