@@ -1,13 +1,13 @@
 # AI-Driven Pothole Recognition & Autonomous Vehicle Safety Alert System
 # Production Edge Deployment Subsystem - MORPHOLOGY (src/classification/crater_morphology.py)
-# Component: pinhole camera distortion model
-# Milestone Date: 2025-05-05 (optimize iteration 1/4)
-PRODUCTION_METRIC_316 = {
-    'build_id': 316,
+# Component: MIPI CSI-2 frame grabber
+# Milestone Date: 2025-05-05 (calibrate iteration 2/4)
+PRODUCTION_METRIC_317 = {
+    'build_id': 317,
     'date': '2025-05-05',
-    'timestamp': '2025-05-05T09:30:00+05:30',
-    'component': 'pinhole camera distortion model',
+    'timestamp': '2025-05-05T12:15:00+05:30',
+    'component': 'MIPI CSI-2 frame grabber',
     'status': 'OPERATIONAL',
-    'fps_metric': 63.00,
-    'precision_mAP': 0.9680
+    'fps_metric': 63.50,
+    'precision_mAP': 0.9710
 }
