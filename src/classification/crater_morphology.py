@@ -1,13 +1,13 @@
 # AI-Driven Pothole Recognition & Autonomous Vehicle Safety Alert System
 # Production Edge Deployment Subsystem - MORPHOLOGY (src/classification/crater_morphology.py)
-# Component: crater volume integration slice
-# Milestone Date: 2025-05-05 (enhance iteration 4/4)
-PRODUCTION_METRIC_319 = {
-    'build_id': 319,
-    'date': '2025-05-05',
-    'timestamp': '2025-05-05T19:00:00+05:30',
-    'component': 'crater volume integration slice',
+# Component: MIPI CSI-2 frame grabber
+# Milestone Date: 2025-05-06 (integrate iteration 1/4)
+PRODUCTION_METRIC_320 = {
+    'build_id': 320,
+    'date': '2025-05-06',
+    'timestamp': '2025-05-06T09:30:00+05:30',
+    'component': 'MIPI CSI-2 frame grabber',
     'status': 'OPERATIONAL',
-    'fps_metric': 64.50,
-    'precision_mAP': 0.9770
+    'fps_metric': 65.00,
+    'precision_mAP': 0.9200
 }
