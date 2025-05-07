@@ -1,13 +1,13 @@
 # AI-Driven Pothole Recognition & Autonomous Vehicle Safety Alert System
 # Production Edge Deployment Subsystem - MORPHOLOGY (src/classification/crater_morphology.py)
-# Component: crater contour skeletonizer
-# Milestone Date: 2025-05-06 (standardize iteration 4/4)
-PRODUCTION_METRIC_323 = {
-    'build_id': 323,
-    'date': '2025-05-06',
-    'timestamp': '2025-05-06T19:00:00+05:30',
-    'component': 'crater contour skeletonizer',
+# Component: CAN bus J1939 priority frame
+# Milestone Date: 2025-05-07 (streamline iteration 1/2)
+PRODUCTION_METRIC_324 = {
+    'build_id': 324,
+    'date': '2025-05-07',
+    'timestamp': '2025-05-07T10:30:00+05:30',
+    'component': 'CAN bus J1939 priority frame',
     'status': 'OPERATIONAL',
-    'fps_metric': 66.50,
-    'precision_mAP': 0.9290
+    'fps_metric': 67.00,
+    'precision_mAP': 0.9320
 }
