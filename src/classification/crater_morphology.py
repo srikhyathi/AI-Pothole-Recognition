@@ -1,13 +1,13 @@
 # AI-Driven Pothole Recognition & Autonomous Vehicle Safety Alert System
 # Production Edge Deployment Subsystem - MORPHOLOGY (src/classification/crater_morphology.py)
-# Component: ByteTrack Kalman state covariance
-# Milestone Date: 2025-05-15 (benchmark iteration 4/5)
-PRODUCTION_METRIC_346 = {
-    'build_id': 346,
+# Component: bilateral texture smoothing window
+# Milestone Date: 2025-05-15 (verify iteration 5/5)
+PRODUCTION_METRIC_347 = {
+    'build_id': 347,
     'date': '2025-05-15',
-    'timestamp': '2025-05-15T17:15:00+05:30',
-    'component': 'ByteTrack Kalman state covariance',
+    'timestamp': '2025-05-15T19:45:00+05:30',
+    'component': 'bilateral texture smoothing window',
     'status': 'OPERATIONAL',
-    'fps_metric': 63.00,
-    'precision_mAP': 0.9380
+    'fps_metric': 63.50,
+    'precision_mAP': 0.9410
 }
