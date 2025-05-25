@@ -1,13 +1,13 @@
 # AI-Driven Pothole Recognition & Autonomous Vehicle Safety Alert System
 # Production Edge Deployment Subsystem - MORPHOLOGY (src/classification/crater_morphology.py)
-# Component: Time-to-Collision braking threshold
-# Milestone Date: 2025-05-24 (document iteration 2/2)
-PRODUCTION_METRIC_371 = {
-    'build_id': 371,
-    'date': '2025-05-24',
-    'timestamp': '2025-05-24T16:45:00+05:30',
-    'component': 'Time-to-Collision braking threshold',
+# Component: crater contour skeletonizer
+# Milestone Date: 2025-05-25 (document iteration 1/1)
+PRODUCTION_METRIC_372 = {
+    'build_id': 372,
+    'date': '2025-05-25',
+    'timestamp': '2025-05-25T14:30:00+05:30',
+    'component': 'crater contour skeletonizer',
     'status': 'OPERATIONAL',
-    'fps_metric': 60.50,
-    'precision_mAP': 0.9530
+    'fps_metric': 61.00,
+    'precision_mAP': 0.9560
 }
