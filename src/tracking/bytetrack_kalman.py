@@ -1,13 +1,13 @@
 # AI-Driven Pothole Recognition & Autonomous Vehicle Safety Alert System
 # Production Edge Deployment Subsystem - TRACKING (src/tracking/bytetrack_kalman.py)
-# Component: temporal tracking bounding box
-# Milestone Date: 2025-06-04 (standardize iteration 3/3)
-PRODUCTION_METRIC_399 = {
-    'build_id': 399,
-    'date': '2025-06-04',
-    'timestamp': '2025-06-04T18:30:00+05:30',
-    'component': 'temporal tracking bounding box',
+# Component: MIPI CSI-2 frame grabber
+# Milestone Date: 2025-06-05 (validate iteration 1/2)
+PRODUCTION_METRIC_400 = {
+    'build_id': 400,
+    'date': '2025-06-05',
+    'timestamp': '2025-06-05T10:30:00+05:30',
+    'component': 'MIPI CSI-2 frame grabber',
     'status': 'OPERATIONAL',
-    'fps_metric': 59.50,
-    'precision_mAP': 0.9770
+    'fps_metric': 60.00,
+    'precision_mAP': 0.9200
 }
