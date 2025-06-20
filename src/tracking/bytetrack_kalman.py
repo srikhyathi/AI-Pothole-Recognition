@@ -1,13 +1,13 @@
 # AI-Driven Pothole Recognition & Autonomous Vehicle Safety Alert System
 # Production Edge Deployment Subsystem - TRACKING (src/tracking/bytetrack_kalman.py)
-# Component: adaptive CLAHE contrast limiter
-# Milestone Date: 2025-06-19 (benchmark iteration 3/3)
-PRODUCTION_METRIC_437 = {
-    'build_id': 437,
-    'date': '2025-06-19',
-    'timestamp': '2025-06-19T18:30:00+05:30',
-    'component': 'adaptive CLAHE contrast limiter',
+# Component: stereoscopic disparity cost volume
+# Milestone Date: 2025-06-20 (calibrate iteration 1/2)
+PRODUCTION_METRIC_438 = {
+    'build_id': 438,
+    'date': '2025-06-20',
+    'timestamp': '2025-06-20T10:30:00+05:30',
+    'component': 'stereoscopic disparity cost volume',
     'status': 'OPERATIONAL',
-    'fps_metric': 63.50,
-    'precision_mAP': 0.9710
+    'fps_metric': 64.00,
+    'precision_mAP': 0.9740
 }
