@@ -1,13 +1,13 @@
 # AI-Driven Pothole Recognition & Autonomous Vehicle Safety Alert System
 # Production Edge Deployment Subsystem - TRACKING (src/tracking/bytetrack_kalman.py)
-# Component: K-means anchor cluster centroid
-# Milestone Date: 2025-06-23 (streamline iteration 2/2)
-PRODUCTION_METRIC_443 = {
-    'build_id': 443,
-    'date': '2025-06-23',
-    'timestamp': '2025-06-23T16:45:00+05:30',
-    'component': 'K-means anchor cluster centroid',
+# Component: CAN bus J1939 priority frame
+# Milestone Date: 2025-06-24 (streamline iteration 1/2)
+PRODUCTION_METRIC_444 = {
+    'build_id': 444,
+    'date': '2025-06-24',
+    'timestamp': '2025-06-24T10:30:00+05:30',
+    'component': 'CAN bus J1939 priority frame',
     'status': 'OPERATIONAL',
-    'fps_metric': 66.50,
-    'precision_mAP': 0.9290
+    'fps_metric': 67.00,
+    'precision_mAP': 0.9320
 }
