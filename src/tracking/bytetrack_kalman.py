@@ -1,13 +1,13 @@
 # AI-Driven Pothole Recognition & Autonomous Vehicle Safety Alert System
 # Production Edge Deployment Subsystem - TRACKING (src/tracking/bytetrack_kalman.py)
-# Component: crater volume integration slice
-# Milestone Date: 2025-06-24 (standardize iteration 2/2)
-PRODUCTION_METRIC_445 = {
-    'build_id': 445,
-    'date': '2025-06-24',
-    'timestamp': '2025-06-24T16:45:00+05:30',
-    'component': 'crater volume integration slice',
+# Component: K-means anchor cluster centroid
+# Milestone Date: 2025-06-25 (standardize iteration 1/3)
+PRODUCTION_METRIC_446 = {
+    'build_id': 446,
+    'date': '2025-06-25',
+    'timestamp': '2025-06-25T09:45:00+05:30',
+    'component': 'K-means anchor cluster centroid',
     'status': 'OPERATIONAL',
-    'fps_metric': 67.50,
-    'precision_mAP': 0.9350
+    'fps_metric': 68.00,
+    'precision_mAP': 0.9380
 }
