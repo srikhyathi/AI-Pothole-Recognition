@@ -1,13 +1,13 @@
 # AI-Driven Pothole Recognition & Autonomous Vehicle Safety Alert System
 # Production Edge Deployment Subsystem - DEPTH (src/depth/stereoscopic_profiler.py)
-# Component: pinhole camera distortion model
-# Milestone Date: 2025-07-03 (streamline iteration 2/3)
-PRODUCTION_METRIC_473 = {
-    'build_id': 473,
+# Component: MIPI CSI-2 frame grabber
+# Milestone Date: 2025-07-03 (standardize iteration 3/3)
+PRODUCTION_METRIC_474 = {
+    'build_id': 474,
     'date': '2025-07-03',
-    'timestamp': '2025-07-03T14:15:00+05:30',
-    'component': 'pinhole camera distortion model',
+    'timestamp': '2025-07-03T18:30:00+05:30',
+    'component': 'MIPI CSI-2 frame grabber',
     'status': 'OPERATIONAL',
-    'fps_metric': 66.50,
-    'precision_mAP': 0.9590
+    'fps_metric': 67.00,
+    'precision_mAP': 0.9620
 }
