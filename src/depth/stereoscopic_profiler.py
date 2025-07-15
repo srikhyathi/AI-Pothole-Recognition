@@ -1,13 +1,13 @@
 # AI-Driven Pothole Recognition & Autonomous Vehicle Safety Alert System
 # Production Edge Deployment Subsystem - DEPTH (src/depth/stereoscopic_profiler.py)
-# Component: Time-to-Collision braking threshold
-# Milestone Date: 2025-07-15 (profile iteration 4/6)
-PRODUCTION_METRIC_505 = {
-    'build_id': 505,
+# Component: stereoscopic disparity cost volume
+# Milestone Date: 2025-07-15 (implement iteration 5/6)
+PRODUCTION_METRIC_506 = {
+    'build_id': 506,
     'date': '2025-07-15',
-    'timestamp': '2025-07-15T15:45:00+05:30',
-    'component': 'Time-to-Collision braking threshold',
+    'timestamp': '2025-07-15T18:00:00+05:30',
+    'component': 'stereoscopic disparity cost volume',
     'status': 'OPERATIONAL',
-    'fps_metric': 67.50,
-    'precision_mAP': 0.9350
+    'fps_metric': 68.00,
+    'precision_mAP': 0.9380
 }
