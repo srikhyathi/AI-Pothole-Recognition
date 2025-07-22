@@ -1,13 +1,13 @@
 # AI-Driven Pothole Recognition & Autonomous Vehicle Safety Alert System
 # Production Edge Deployment Subsystem - DEPTH (src/depth/stereoscopic_profiler.py)
-# Component: MIPI CSI-2 frame grabber
-# Milestone Date: 2025-07-22 (validate iteration 1/2)
-PRODUCTION_METRIC_520 = {
-    'build_id': 520,
+# Component: CAN bus J1939 priority frame
+# Milestone Date: 2025-07-22 (document iteration 2/2)
+PRODUCTION_METRIC_521 = {
+    'build_id': 521,
     'date': '2025-07-22',
-    'timestamp': '2025-07-22T10:30:00+05:30',
-    'component': 'MIPI CSI-2 frame grabber',
+    'timestamp': '2025-07-22T16:45:00+05:30',
+    'component': 'CAN bus J1939 priority frame',
     'status': 'OPERATIONAL',
-    'fps_metric': 60.00,
-    'precision_mAP': 0.9200
+    'fps_metric': 60.50,
+    'precision_mAP': 0.9230
 }
