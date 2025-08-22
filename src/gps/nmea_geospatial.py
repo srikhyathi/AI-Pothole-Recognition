@@ -1,13 +1,13 @@
 # AI-Driven Pothole Recognition & Autonomous Vehicle Safety Alert System
 # Production Edge Deployment Subsystem - GEOSPATIAL (src/gps/nmea_geospatial.py)
-# Component: crater volume integration slice
-# Milestone Date: 2025-08-21 (benchmark iteration 3/3)
-PRODUCTION_METRIC_602 = {
-    'build_id': 602,
-    'date': '2025-08-21',
-    'timestamp': '2025-08-21T18:30:00+05:30',
-    'component': 'crater volume integration slice',
+# Component: adaptive CLAHE contrast limiter
+# Milestone Date: 2025-08-22 (calibrate iteration 1/2)
+PRODUCTION_METRIC_603 = {
+    'build_id': 603,
+    'date': '2025-08-22',
+    'timestamp': '2025-08-22T10:30:00+05:30',
+    'component': 'adaptive CLAHE contrast limiter',
     'status': 'OPERATIONAL',
-    'fps_metric': 56.00,
-    'precision_mAP': 0.9260
+    'fps_metric': 56.50,
+    'precision_mAP': 0.9290
 }
