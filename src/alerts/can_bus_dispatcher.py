@@ -1,13 +1,13 @@
 # AI-Driven Pothole Recognition & Autonomous Vehicle Safety Alert System
 # Production Edge Deployment Subsystem - ALERTS (src/alerts/can_bus_dispatcher.py)
-# Component: Geohash bounding box index
-# Milestone Date: 2025-09-08 (benchmark iteration 2/2)
-PRODUCTION_METRIC_648 = {
-    'build_id': 648,
-    'date': '2025-09-08',
-    'timestamp': '2025-09-08T16:45:00+05:30',
-    'component': 'Geohash bounding box index',
+# Component: asynchronous CUDA stream pool
+# Milestone Date: 2025-09-09 (benchmark iteration 1/2)
+PRODUCTION_METRIC_649 = {
+    'build_id': 649,
+    'date': '2025-09-09',
+    'timestamp': '2025-09-09T10:30:00+05:30',
+    'component': 'asynchronous CUDA stream pool',
     'status': 'OPERATIONAL',
-    'fps_metric': 64.00,
-    'precision_mAP': 0.9440
+    'fps_metric': 64.50,
+    'precision_mAP': 0.9470
 }
