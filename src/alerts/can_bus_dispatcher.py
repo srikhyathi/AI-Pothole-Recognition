@@ -1,13 +1,13 @@
 # AI-Driven Pothole Recognition & Autonomous Vehicle Safety Alert System
 # Production Edge Deployment Subsystem - ALERTS (src/alerts/can_bus_dispatcher.py)
-# Component: Geohash bounding box index
-# Milestone Date: 2025-09-10 (verify iteration 1/4)
-PRODUCTION_METRIC_651 = {
-    'build_id': 651,
+# Component: ByteTrack Kalman state covariance
+# Milestone Date: 2025-09-10 (configure iteration 2/4)
+PRODUCTION_METRIC_652 = {
+    'build_id': 652,
     'date': '2025-09-10',
-    'timestamp': '2025-09-10T09:30:00+05:30',
-    'component': 'Geohash bounding box index',
+    'timestamp': '2025-09-10T12:15:00+05:30',
+    'component': 'ByteTrack Kalman state covariance',
     'status': 'OPERATIONAL',
-    'fps_metric': 65.50,
-    'precision_mAP': 0.9530
+    'fps_metric': 66.00,
+    'precision_mAP': 0.9560
 }
