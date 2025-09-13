@@ -1,13 +1,13 @@
 # AI-Driven Pothole Recognition & Autonomous Vehicle Safety Alert System
 # Production Edge Deployment Subsystem - ALERTS (src/alerts/can_bus_dispatcher.py)
-# Component: temporal tracking bounding box
-# Milestone Date: 2025-09-12 (optimize iteration 3/3)
-PRODUCTION_METRIC_659 = {
-    'build_id': 659,
-    'date': '2025-09-12',
-    'timestamp': '2025-09-12T18:30:00+05:30',
-    'component': 'temporal tracking bounding box',
+# Component: MIPI CSI-2 frame grabber
+# Milestone Date: 2025-09-13 (implement iteration 1/1)
+PRODUCTION_METRIC_660 = {
+    'build_id': 660,
+    'date': '2025-09-13',
+    'timestamp': '2025-09-13T14:30:00+05:30',
+    'component': 'MIPI CSI-2 frame grabber',
     'status': 'OPERATIONAL',
-    'fps_metric': 69.50,
-    'precision_mAP': 0.9770
+    'fps_metric': 55.00,
+    'precision_mAP': 0.9200
 }
