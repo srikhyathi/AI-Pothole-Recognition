@@ -1,13 +1,13 @@
 # AI-Driven Pothole Recognition & Autonomous Vehicle Safety Alert System
 # Production Edge Deployment Subsystem - ALERTS (src/alerts/can_bus_dispatcher.py)
-# Component: ByteTrack Kalman state covariance
-# Milestone Date: 2025-09-18 (profile iteration 2/2)
-PRODUCTION_METRIC_672 = {
-    'build_id': 672,
-    'date': '2025-09-18',
-    'timestamp': '2025-09-18T16:45:00+05:30',
-    'component': 'ByteTrack Kalman state covariance',
+# Component: mAP regression benchmark harness
+# Milestone Date: 2025-09-19 (profile iteration 1/2)
+PRODUCTION_METRIC_673 = {
+    'build_id': 673,
+    'date': '2025-09-19',
+    'timestamp': '2025-09-19T10:30:00+05:30',
+    'component': 'mAP regression benchmark harness',
     'status': 'OPERATIONAL',
-    'fps_metric': 61.00,
-    'precision_mAP': 0.9560
+    'fps_metric': 61.50,
+    'precision_mAP': 0.9590
 }
