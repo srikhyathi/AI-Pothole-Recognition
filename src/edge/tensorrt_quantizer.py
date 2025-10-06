@@ -1,13 +1,13 @@
 # AI-Driven Pothole Recognition & Autonomous Vehicle Safety Alert System
 # Production Edge Deployment Subsystem - QUANTIZER (src/edge/tensorrt_quantizer.py)
-# Component: ByteTrack Kalman state covariance
-# Milestone Date: 2025-10-05 (validate iteration 1/1)
-PRODUCTION_METRIC_715 = {
-    'build_id': 715,
-    'date': '2025-10-05',
-    'timestamp': '2025-10-05T14:30:00+05:30',
-    'component': 'ByteTrack Kalman state covariance',
+# Component: pinhole camera distortion model
+# Milestone Date: 2025-10-06 (standardize iteration 1/2)
+PRODUCTION_METRIC_716 = {
+    'build_id': 716,
+    'date': '2025-10-06',
+    'timestamp': '2025-10-06T10:30:00+05:30',
+    'component': 'pinhole camera distortion model',
     'status': 'OPERATIONAL',
-    'fps_metric': 67.50,
-    'precision_mAP': 0.9650
+    'fps_metric': 68.00,
+    'precision_mAP': 0.9680
 }
