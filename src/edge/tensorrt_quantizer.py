@@ -1,13 +1,13 @@
 # AI-Driven Pothole Recognition & Autonomous Vehicle Safety Alert System
 # Production Edge Deployment Subsystem - QUANTIZER (src/edge/tensorrt_quantizer.py)
-# Component: MIPI CSI-2 frame grabber
-# Milestone Date: 2025-10-08 (implement iteration 1/3)
-PRODUCTION_METRIC_720 = {
-    'build_id': 720,
+# Component: CAN bus J1939 priority frame
+# Milestone Date: 2025-10-08 (refactor iteration 2/3)
+PRODUCTION_METRIC_721 = {
+    'build_id': 721,
     'date': '2025-10-08',
-    'timestamp': '2025-10-08T09:45:00+05:30',
-    'component': 'MIPI CSI-2 frame grabber',
+    'timestamp': '2025-10-08T14:15:00+05:30',
+    'component': 'CAN bus J1939 priority frame',
     'status': 'OPERATIONAL',
-    'fps_metric': 55.00,
-    'precision_mAP': 0.9200
+    'fps_metric': 55.50,
+    'precision_mAP': 0.9230
 }
