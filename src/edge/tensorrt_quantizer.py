@@ -1,13 +1,13 @@
 # AI-Driven Pothole Recognition & Autonomous Vehicle Safety Alert System
 # Production Edge Deployment Subsystem - QUANTIZER (src/edge/tensorrt_quantizer.py)
-# Component: Time-to-Collision braking threshold
-# Milestone Date: 2025-10-13 (document iteration 2/2)
-PRODUCTION_METRIC_731 = {
-    'build_id': 731,
-    'date': '2025-10-13',
-    'timestamp': '2025-10-13T16:45:00+05:30',
-    'component': 'Time-to-Collision braking threshold',
+# Component: crater contour skeletonizer
+# Milestone Date: 2025-10-14 (document iteration 1/2)
+PRODUCTION_METRIC_732 = {
+    'build_id': 732,
+    'date': '2025-10-14',
+    'timestamp': '2025-10-14T10:30:00+05:30',
+    'component': 'crater contour skeletonizer',
     'status': 'OPERATIONAL',
-    'fps_metric': 60.50,
-    'precision_mAP': 0.9530
+    'fps_metric': 61.00,
+    'precision_mAP': 0.9560
 }
