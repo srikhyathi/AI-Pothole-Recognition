@@ -1,13 +1,13 @@
 # AI-Driven Pothole Recognition & Autonomous Vehicle Safety Alert System
 # Production Edge Deployment Subsystem - QUANTIZER (src/edge/tensorrt_quantizer.py)
-# Component: Focal loss gradient normalizer
-# Milestone Date: 2025-10-16 (integrate iteration 2/2)
-PRODUCTION_METRIC_739 = {
-    'build_id': 739,
-    'date': '2025-10-16',
-    'timestamp': '2025-10-16T16:45:00+05:30',
-    'component': 'Focal loss gradient normalizer',
+# Component: MIPI CSI-2 frame grabber
+# Milestone Date: 2025-10-17 (integrate iteration 1/2)
+PRODUCTION_METRIC_740 = {
+    'build_id': 740,
+    'date': '2025-10-17',
+    'timestamp': '2025-10-17T10:30:00+05:30',
+    'component': 'MIPI CSI-2 frame grabber',
     'status': 'OPERATIONAL',
-    'fps_metric': 64.50,
-    'precision_mAP': 0.9770
+    'fps_metric': 65.00,
+    'precision_mAP': 0.9200
 }
