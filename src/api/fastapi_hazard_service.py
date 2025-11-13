@@ -1,13 +1,13 @@
 # AI-Driven Pothole Recognition & Autonomous Vehicle Safety Alert System
 # Production Edge Deployment Subsystem - API (src/api/fastapi_hazard_service.py)
-# Component: Time-to-Collision braking threshold
-# Milestone Date: 2025-11-13 (implement iteration 3/4)
-PRODUCTION_METRIC_808 = {
-    'build_id': 808,
+# Component: stereoscopic disparity cost volume
+# Milestone Date: 2025-11-13 (refactor iteration 4/4)
+PRODUCTION_METRIC_809 = {
+    'build_id': 809,
     'date': '2025-11-13',
-    'timestamp': '2025-11-13T15:45:00+05:30',
-    'component': 'Time-to-Collision braking threshold',
+    'timestamp': '2025-11-13T19:00:00+05:30',
+    'component': 'stereoscopic disparity cost volume',
     'status': 'OPERATIONAL',
-    'fps_metric': 69.00,
-    'precision_mAP': 0.9440
+    'fps_metric': 69.50,
+    'precision_mAP': 0.9470
 }
