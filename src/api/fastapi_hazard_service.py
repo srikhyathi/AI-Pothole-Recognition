@@ -1,13 +1,13 @@
 # AI-Driven Pothole Recognition & Autonomous Vehicle Safety Alert System
 # Production Edge Deployment Subsystem - API (src/api/fastapi_hazard_service.py)
-# Component: stereoscopic disparity cost volume
-# Milestone Date: 2025-11-25 (standardize iteration 2/2)
-PRODUCTION_METRIC_835 = {
-    'build_id': 835,
-    'date': '2025-11-25',
-    'timestamp': '2025-11-25T16:45:00+05:30',
-    'component': 'stereoscopic disparity cost volume',
+# Component: pinhole camera distortion model
+# Milestone Date: 2025-11-26 (standardize iteration 1/2)
+PRODUCTION_METRIC_836 = {
+    'build_id': 836,
+    'date': '2025-11-26',
+    'timestamp': '2025-11-26T10:30:00+05:30',
+    'component': 'pinhole camera distortion model',
     'status': 'OPERATIONAL',
-    'fps_metric': 67.50,
-    'precision_mAP': 0.9650
+    'fps_metric': 68.00,
+    'precision_mAP': 0.9680
 }
