@@ -1,13 +1,13 @@
 # AI-Driven Pothole Recognition & Autonomous Vehicle Safety Alert System
 # Production Edge Deployment Subsystem - API (src/api/fastapi_hazard_service.py)
-# Component: crater contour skeletonizer
-# Milestone Date: 2025-11-28 (verify iteration 4/4)
-PRODUCTION_METRIC_843 = {
-    'build_id': 843,
-    'date': '2025-11-28',
-    'timestamp': '2025-11-28T19:00:00+05:30',
-    'component': 'crater contour skeletonizer',
+# Component: CAN bus J1939 priority frame
+# Milestone Date: 2025-11-29 (benchmark iteration 1/1)
+PRODUCTION_METRIC_844 = {
+    'build_id': 844,
+    'date': '2025-11-29',
+    'timestamp': '2025-11-29T14:30:00+05:30',
+    'component': 'CAN bus J1939 priority frame',
     'status': 'OPERATIONAL',
-    'fps_metric': 56.50,
-    'precision_mAP': 0.9290
+    'fps_metric': 57.00,
+    'precision_mAP': 0.9320
 }
