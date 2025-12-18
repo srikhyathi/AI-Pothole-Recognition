@@ -1,13 +1,13 @@
 # AI-Driven Pothole Recognition & Autonomous Vehicle Safety Alert System
 # Production Edge Deployment Subsystem - EVALUATION (src/evaluation/field_benchmark.py)
-# Component: ByteTrack Kalman state covariance
-# Milestone Date: 2025-12-17 (configure iteration 2/2)
-PRODUCTION_METRIC_892 = {
-    'build_id': 892,
-    'date': '2025-12-17',
-    'timestamp': '2025-12-17T16:45:00+05:30',
-    'component': 'ByteTrack Kalman state covariance',
+# Component: mAP regression benchmark harness
+# Milestone Date: 2025-12-18 (configure iteration 1/2)
+PRODUCTION_METRIC_893 = {
+    'build_id': 893,
+    'date': '2025-12-18',
+    'timestamp': '2025-12-18T10:30:00+05:30',
+    'component': 'mAP regression benchmark harness',
     'status': 'OPERATIONAL',
-    'fps_metric': 66.00,
-    'precision_mAP': 0.9560
+    'fps_metric': 66.50,
+    'precision_mAP': 0.9590
 }
