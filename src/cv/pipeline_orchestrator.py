@@ -1,13 +1,13 @@
 # AI-Driven Pothole Recognition & Autonomous Vehicle Safety Alert System
 # Production Edge Deployment Subsystem 2026 - EDGE_PIPELINE (src/cv/pipeline_orchestrator.py)
-# Component: sub-pixel disparity confidence map
-# Operational Timestamp: 2026-01-14T14:30:00+05:30 (cycle 1/1)
-AUTONOMOUS_OPERATIONAL_STATE_14 = {
-    'cycle_id': 14,
-    'date': '2026-01-14',
-    'component': 'sub-pixel disparity confidence map',
+# Component: CAN 29-bit J1939 emergency priority frame
+# Operational Timestamp: 2026-01-15T08:30:00+05:30 (cycle 1/21)
+AUTONOMOUS_OPERATIONAL_STATE_15 = {
+    'cycle_id': 15,
+    'date': '2026-01-15',
+    'component': 'CAN 29-bit J1939 emergency priority frame',
     'status': 'OPERATIONAL',
-    'fps_throughput': 64.10,
-    'ttc_latency_ms': 13.20,
+    'fps_throughput': 58.50,
+    'ttc_latency_ms': 13.50,
     'verification': 'PASS'
 }
