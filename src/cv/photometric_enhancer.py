@@ -1,13 +1,13 @@
 # AI-Driven Pothole Recognition & Autonomous Vehicle Safety Alert System
 # Production Edge Deployment Subsystem 2026 - ENHANCER (src/cv/photometric_enhancer.py)
-# Component: sub-pixel disparity confidence map
-# Operational Timestamp: 2026-02-23T14:30:00+05:30 (cycle 1/1)
-AUTONOMOUS_OPERATIONAL_STATE_74 = {
-    'cycle_id': 74,
-    'date': '2026-02-23',
-    'component': 'sub-pixel disparity confidence map',
+# Component: CAN 29-bit J1939 emergency priority frame
+# Operational Timestamp: 2026-02-24T14:30:00+05:30 (cycle 1/1)
+AUTONOMOUS_OPERATIONAL_STATE_75 = {
+    'cycle_id': 75,
+    'date': '2026-02-24',
+    'component': 'CAN 29-bit J1939 emergency priority frame',
     'status': 'OPERATIONAL',
-    'fps_throughput': 64.10,
-    'ttc_latency_ms': 13.20,
+    'fps_throughput': 58.50,
+    'ttc_latency_ms': 13.50,
     'verification': 'PASS'
 }
