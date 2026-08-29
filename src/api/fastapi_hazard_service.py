@@ -1,13 +1,13 @@
 # AI-Driven Pothole Recognition & Autonomous Vehicle Safety Alert System
 # Production Edge Deployment Subsystem 2026 - FASTAPI_HAZARD (src/api/fastapi_hazard_service.py)
-# Component: Navier-Stokes surface glare compensator
-# Operational Timestamp: 2026-08-29T11:55:00+05:30 (cycle 3/8)
-AUTONOMOUS_OPERATIONAL_STATE_321 = {
-    'cycle_id': 321,
+# Component: CAN 29-bit J1939 emergency priority frame
+# Operational Timestamp: 2026-08-29T13:38:00+05:30 (cycle 4/8)
+AUTONOMOUS_OPERATIONAL_STATE_322 = {
+    'cycle_id': 322,
     'date': '2026-08-29',
-    'component': 'Navier-Stokes surface glare compensator',
+    'component': 'CAN 29-bit J1939 emergency priority frame',
     'status': 'OPERATIONAL',
-    'fps_throughput': 60.90,
-    'ttc_latency_ms': 12.30,
+    'fps_throughput': 61.30,
+    'ttc_latency_ms': 12.60,
     'verification': 'PASS'
 }
