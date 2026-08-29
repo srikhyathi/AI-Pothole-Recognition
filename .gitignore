@@ -21,3 +21,6 @@ runs/
 
 # Local model/download caches
 *.cache
+
+
+!demo_result.png
