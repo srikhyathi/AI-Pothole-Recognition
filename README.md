@@ -1,70 +1,63 @@
 # AI-Driven Pothole Recognition and Autonomous Vehicle Alert System
 
-## 📌 Project Overview
+## Project Overview
 
-An AI-driven road-safety system designed to detect potholes from road images or camera streams and provide location-based alerts.
+An AI-based road-safety system designed to detect potholes and other road-surface damage from images and video using computer vision and deep-learning-based object detection.
 
-The system uses computer vision and IoT technologies to identify potholes and support safer driving through automated detection and alert mechanisms.
+The system uses a custom-trained YOLO model to identify different types of road damage and provides visual detection results with bounding boxes and labels.
 
-## 🎯 Objectives
+The project is designed as a foundation for future GPS-based road-hazard alerts and autonomous vehicle safety applications.
 
-- Detect potholes using AI-based computer vision.
-- Process images or camera streams for road-surface analysis.
-- Identify pothole locations using GPS.
-- Provide alerts when potholes are detected.
-- Support autonomous vehicle safety applications.
-- Enable cloud-based alert mechanisms.
+## Objectives
 
-## ✨ Key Features
+- Detect potholes and road-surface damage using AI.
+- Process images and video footage for road analysis.
+- Identify different categories of road damage.
+- Provide visual detection results using bounding boxes and labels.
+- Support real-time webcam-based detection.
+- Provide a foundation for GPS and vehicle alert integration.
 
-- Pothole detection
-- YOLO-based object detection
-- Camera-based monitoring
+## Detection Classes
+
+The trained YOLO model recognizes five classes:
+
+1. Longitudinal Crack
+2. Transverse Crack
+3. Alligator Crack
+4. Pothole
+5. Other
+
+## Key Features
+
+- Custom-trained YOLO object detection
+- Pothole detection from road videos
+- Road-damage classification
 - OpenCV image processing
-- GPS location identification
-- ESP32 integration
-- Cloud-based alert mechanism
-- Autonomous vehicle alert concept
+- Image, video, and webcam input support
+- Configurable confidence threshold
+- Detection results saved automatically
+- Git LFS support for the trained model
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 - Python
-- YOLO
+- Ultralytics YOLO
 - OpenCV
-- TensorFlow
-- ESP32
-- GPS
-- IoT
 - Computer Vision
+- Deep Learning
+- Git
+- Git LFS
 
-## 🏗️ Project Structure
+## Project Structure
 
 ```text
 AI-Pothole-Recognition/
-│
-├── docs/
-├── images/
-├── models/
-├── src/
-│   ├── config.py
-│   ├── pothole_detection.py
-│   └── utils.py
-│
-├── .gitignore
-├── README.md
-└── requirements.txt
-
-Camera / Image Input
-        ↓
-Image Processing
-        ↓
-YOLO-Based Pothole Detection
-        ↓
-Pothole Identified
-        ↓
-GPS Location
-        ↓
-Alert Generation
-        ↓
-Cloud / Vehicle Safety Alert
-
+|
+|-- src/
+|   |-- pothole_detection.py
+|
+|-- best.pt
+|-- .gitattributes
+|-- .gitignore
+|-- README.md
+|-- requirements.txt
