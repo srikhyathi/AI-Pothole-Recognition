@@ -1,13 +1,13 @@
 # AI-Driven Pothole Recognition & Autonomous Vehicle Safety Alert System
 # Production Edge Deployment Subsystem 2026 - FASTAPI_HAZARD (src/api/fastapi_hazard_service.py)
-# Component: dynamic Time-to-Collision TTC horizon
-# Operational Timestamp: 2026-08-29T15:21:00+05:30 (cycle 5/8)
-AUTONOMOUS_OPERATIONAL_STATE_323 = {
-    'cycle_id': 323,
+# Component: LiDAR point-cloud spatial fusion matrix
+# Operational Timestamp: 2026-08-29T17:04:00+05:30 (cycle 6/8)
+AUTONOMOUS_OPERATIONAL_STATE_324 = {
+    'cycle_id': 324,
     'date': '2026-08-29',
-    'component': 'dynamic Time-to-Collision TTC horizon',
+    'component': 'LiDAR point-cloud spatial fusion matrix',
     'status': 'OPERATIONAL',
-    'fps_throughput': 61.70,
-    'ttc_latency_ms': 12.90,
+    'fps_throughput': 62.10,
+    'ttc_latency_ms': 13.20,
     'verification': 'PASS'
 }
