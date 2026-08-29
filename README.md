@@ -4,9 +4,9 @@
 
 An AI-based road-safety system designed to detect potholes and other road-surface damage from images and video using computer vision and deep-learning-based object detection.
 
-The system uses a custom-trained YOLO model to identify different types of road damage and provides visual detection results with bounding boxes and labels.
+The system uses a custom-trained YOLO model to identify different types of road damage and generates a simulated GPS-based vehicle safety alert when a pothole is detected.
 
-The project is designed as a foundation for future GPS-based road-hazard alerts and autonomous vehicle safety applications.
+The project provides the computer-vision foundation for future real-world GPS, IoT, and autonomous-vehicle safety integration.
 
 ## Objectives
 
@@ -14,8 +14,9 @@ The project is designed as a foundation for future GPS-based road-hazard alerts 
 - Process images and video footage for road analysis.
 - Identify different categories of road damage.
 - Provide visual detection results using bounding boxes and labels.
-- Support real-time webcam-based detection.
-- Provide a foundation for GPS and vehicle alert integration.
+- Generate GPS-based road-hazard information.
+- Generate vehicle safety alerts when potholes are detected.
+- Support future real-time autonomous vehicle safety applications.
 
 ## Detection Classes
 
@@ -36,6 +37,8 @@ The trained YOLO model recognizes five classes:
 - Image, video, and webcam input support
 - Configurable confidence threshold
 - Detection results saved automatically
+- Simulated GPS location generation
+- Vehicle safety alert generation
 - Git LFS support for the trained model
 
 ## Technologies Used
@@ -55,8 +58,10 @@ AI-Pothole-Recognition/
 |
 |-- src/
 |   |-- pothole_detection.py
+|   |-- gps_alert.py
 |
 |-- best.pt
+|-- demo_result.png
 |-- .gitattributes
 |-- .gitignore
 |-- README.md

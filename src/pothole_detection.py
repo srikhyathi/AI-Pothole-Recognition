@@ -2,14 +2,17 @@
 AI-Driven Pothole Recognition and Autonomous Vehicle Alert System
 
 YOLO + OpenCV detection module for images, videos, and webcam.
+Includes simulated GPS location and safety alerts.
 
 Author: Sri Khyathi Ambadipudi
 """
 
 import argparse
+import time
 from pathlib import Path
 
 import cv2
+from gps_alert import generate_alert
 from ultralytics import YOLO
 
 
@@ -56,6 +59,32 @@ def convert_source(source):
     return source
 
 
+def check_pothole_alert(results, last_alert_time):
+    """
+    Check YOLO results for a pothole.
+
+    Class 3 = Pothole.
+    An alert is limited to once every 5 seconds.
+    """
+    current_time = time.time()
+
+    if current_time - last_alert_time < 5:
+        return last_alert_time
+
+    if results[0].boxes is None:
+        return last_alert_time
+
+    classes = results[0].boxes.cls.tolist()
+    confidences = results[0].boxes.conf.tolist()
+
+    for cls, conf in zip(classes, confidences):
+        if int(cls) == 3:
+            generate_alert(float(conf))
+            return current_time
+
+    return last_alert_time
+
+
 def run_webcam(model, confidence, output_dir):
     """Run YOLO detection on webcam and save the output video."""
 
@@ -93,6 +122,8 @@ def run_webcam(model, confidence, output_dir):
     print("Starting webcam detection...")
     print("Press Q to stop.")
 
+    last_alert_time = 0
+
     while True:
         success, frame = cap.read()
 
@@ -104,6 +135,11 @@ def run_webcam(model, confidence, output_dir):
             source=frame,
             conf=confidence,
             verbose=False
+        )
+
+        last_alert_time = check_pothole_alert(
+            results,
+            last_alert_time
         )
 
         annotated_frame = results[0].plot()
@@ -152,6 +188,13 @@ def run_image_or_video(model, source, confidence, output_dir):
         (width, height)
     )
 
+    if not writer.isOpened():
+        print("ERROR: Could not create output video.")
+        cap.release()
+        return
+
+    last_alert_time = 0
+
     while True:
         success, frame = cap.read()
 
@@ -162,6 +205,11 @@ def run_image_or_video(model, source, confidence, output_dir):
             source=frame,
             conf=confidence,
             verbose=False
+        )
+
+        last_alert_time = check_pothole_alert(
+            results,
+            last_alert_time
         )
 
         annotated_frame = results[0].plot()
