@@ -1,7 +1,7 @@
 """
 AI-Driven Pothole Recognition and Autonomous Vehicle Alert System
 
-Main detection module using YOLO and OpenCV.
+YOLO + OpenCV detection module for images, videos, and webcam.
 
 Author: Sri Khyathi Ambadipudi
 """
@@ -29,7 +29,7 @@ def parse_arguments():
         "--weights",
         type=str,
         default="models/pothole_best.pt",
-        help="Path to the trained pothole YOLO model.",
+        help="Path to the YOLO model.",
     )
 
     parser.add_argument(
@@ -56,28 +56,129 @@ def convert_source(source):
     return source
 
 
-def run_detection(model, source, confidence, output_dir):
-    """Run YOLO detection and display the results."""
+def run_webcam(model, confidence, output_dir):
+    """Run YOLO detection on webcam and save the output video."""
 
     output_path = Path(output_dir)
     output_path.mkdir(parents=True, exist_ok=True)
 
-    source = convert_source(source)
+    cap = cv2.VideoCapture(0)
 
-    results = model.predict(
-        source=source,
-        conf=confidence,
-        save=True,
-        project=str(output_path),
-        name="pothole_results",
-        exist_ok=False,
-        show=True,
+    if not cap.isOpened():
+        print("ERROR: Could not open webcam.")
+        return
+
+    width = int(cap.get(cv2.CAP_PROP_FRAME_WIDTH))
+    height = int(cap.get(cv2.CAP_PROP_FRAME_HEIGHT))
+    fps = cap.get(cv2.CAP_PROP_FPS)
+
+    if fps <= 0:
+        fps = 30.0
+
+    output_file = output_path / "pothole_detection.avi"
+
+    fourcc = cv2.VideoWriter_fourcc(*"MJPG")
+    writer = cv2.VideoWriter(
+        str(output_file),
+        fourcc,
+        fps,
+        (width, height)
     )
 
-    print("\nDetection completed successfully.")
-    print(f"Results saved inside: {output_path}")
+    if not writer.isOpened():
+        print("ERROR: Could not create output video.")
+        cap.release()
+        return
 
-    return results
+    print("Starting webcam detection...")
+    print("Press Q to stop.")
+
+    while True:
+        success, frame = cap.read()
+
+        if not success:
+            print("ERROR: Could not read webcam frame.")
+            break
+
+        results = model.predict(
+            source=frame,
+            conf=confidence,
+            verbose=False
+        )
+
+        annotated_frame = results[0].plot()
+
+        writer.write(annotated_frame)
+
+        cv2.imshow("AI Pothole Detection", annotated_frame)
+
+        if cv2.waitKey(1) & 0xFF == ord("q"):
+            break
+
+    cap.release()
+    writer.release()
+    cv2.destroyAllWindows()
+
+    print("\nDetection completed successfully.")
+    print(f"Output video saved at: {output_file}")
+
+
+def run_image_or_video(model, source, confidence, output_dir):
+    """Run YOLO detection on an image or video."""
+
+    output_path = Path(output_dir)
+    output_path.mkdir(parents=True, exist_ok=True)
+
+    cap = cv2.VideoCapture(source)
+
+    if not cap.isOpened():
+        print(f"ERROR: Could not open source: {source}")
+        return
+
+    width = int(cap.get(cv2.CAP_PROP_FRAME_WIDTH))
+    height = int(cap.get(cv2.CAP_PROP_FRAME_HEIGHT))
+    fps = cap.get(cv2.CAP_PROP_FPS)
+
+    if fps <= 0:
+        fps = 30.0
+
+    output_file = output_path / "pothole_detection.avi"
+
+    fourcc = cv2.VideoWriter_fourcc(*"MJPG")
+    writer = cv2.VideoWriter(
+        str(output_file),
+        fourcc,
+        fps,
+        (width, height)
+    )
+
+    while True:
+        success, frame = cap.read()
+
+        if not success:
+            break
+
+        results = model.predict(
+            source=frame,
+            conf=confidence,
+            verbose=False
+        )
+
+        annotated_frame = results[0].plot()
+
+        writer.write(annotated_frame)
+
+        cv2.imshow("AI Pothole Detection", annotated_frame)
+
+        if cv2.waitKey(1) & 0xFF == ord("q"):
+            break
+
+    cap.release()
+    writer.release()
+    cv2.destroyAllWindows()
+
+    print("\nDetection completed successfully.")
+    print(f"Output video saved at: {output_file}")
 
 
 def main():
@@ -86,25 +187,28 @@ def main():
     weights_path = Path(args.weights)
 
     if not weights_path.exists():
-        print("\nERROR: Trained pothole model was not found.")
-        print(f"Expected model location: {weights_path}")
-        print("\nPlease place the trained YOLO pothole model at this location")
-        print("before running pothole detection.")
+        print("\nERROR: Model file was not found.")
+        print(f"Expected location: {weights_path}")
         return
 
-    print("Loading pothole detection model...")
+    print("Loading YOLO model...")
     model = YOLO(str(weights_path))
 
-    print("Starting pothole detection...")
-    print(f"Input source: {args.source}")
-    print(f"Confidence threshold: {args.confidence}")
+    source = convert_source(args.source)
 
-    run_detection(
-        model=model,
-        source=args.source,
-        confidence=args.confidence,
-        output_dir=args.output,
-    )
+    if isinstance(source, int):
+        run_webcam(
+            model=model,
+            confidence=args.confidence,
+            output_dir=args.output
+        )
+    else:
+        run_image_or_video(
+            model=model,
+            source=source,
+            confidence=args.confidence,
+            output_dir=args.output
+        )
 
 
 if __name__ == "__main__":
