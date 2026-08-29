@@ -28,7 +28,7 @@ def parse_arguments():
     parser.add_argument(
         "--weights",
         type=str,
-        default="models/pothole_best.pt",
+        default="best.pt",
         help="Path to the YOLO model.",
     )
 
