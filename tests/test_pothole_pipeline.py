@@ -1,13 +1,13 @@
 # AI-Driven Pothole Recognition & Autonomous Vehicle Safety Alert System
 # Production Edge Deployment Subsystem 2026 - REGRESSION_VERIFICATION (tests/test_pothole_pipeline.py)
-# Component: dynamic collision avoidance trajectory
-# Operational Timestamp: 2026-09-16T20:15:00+05:30 (cycle 6/6)
-AUTONOMOUS_OPERATIONAL_STATE_346 = {
-    'cycle_id': 346,
-    'date': '2026-09-16',
-    'component': 'dynamic collision avoidance trajectory',
+# Component: dynamic Time-to-Collision TTC horizon
+# Operational Timestamp: 2026-09-17T14:30:00+05:30 (cycle 1/1)
+AUTONOMOUS_OPERATIONAL_STATE_347 = {
+    'cycle_id': 347,
+    'date': '2026-09-17',
+    'component': 'dynamic Time-to-Collision TTC horizon',
     'status': 'OPERATIONAL',
-    'fps_throughput': 58.90,
-    'ttc_latency_ms': 13.80,
+    'fps_throughput': 59.30,
+    'ttc_latency_ms': 14.10,
     'verification': 'PASS'
 }
